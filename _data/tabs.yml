@@ -6,25 +6,25 @@
 
 
 -
-  name: Home
+  name: Beranda
   icon: "fas fa-home"
 -
-  name: Categories
+  name: Kategori
   icon: "fas fa-stream"
   path: tabs
   url: categories
 -
-  name: "Tags"
+  name: "Label"
   icon: "fas fa-tags"
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Arsip"
   path: tabs
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Tentang"
   icon: "fas fa-info"
   path: tabs
   url: about

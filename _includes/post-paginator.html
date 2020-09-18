@@ -11,13 +11,13 @@
   <!-- left arrow -->
   {% if paginator.previous_page %}
   <li class="page-item">
-    <a class="page-link btn-box-shadow" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
+    <a class="page-link" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
       <i class="fas fa-angle-left"></i>
     </a>
   </li>
   {% else %}
   <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#"><i class="fas fa-angle-left"></i></a>
+    <a class="page-link" href="#"><i class="fas fa-angle-left"></i></a>
   </li>
   {% endif %}
   <!-- endof left arrow -->
@@ -75,13 +75,13 @@
   <!-- right arrow -->
   {% if paginator.next_page %}
   <li class="page-item">
-    <a class="page-link btn-box-shadow" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+    <a class="page-link" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
       <i class="fas fa-angle-right"></i>
     </a>
   </li>
   {% else %}
   <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#"><i class="fas fa-angle-right"></i></a>
+    <a class="page-link" href="#"><i class="fas fa-angle-right"></i></a>
   </li>
   {% endif %}
 

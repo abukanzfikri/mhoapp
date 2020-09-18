@@ -67,9 +67,9 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
     @include btn-post-nav;
     color: var(--link-color);
     &:hover {
-      background: #2a408e;
+      background: var(--btn-navigation-bg-hover);
       color: #fff;
-      border-color: #2a408e;
+      border-color: var(--btn-navigation-bg-hover);
     }
     &.disabled {
       @include btn-post-nav;
@@ -89,7 +89,7 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
   p {
     font-size: 1.1rem;
     line-height: 1.5rem;
-    margin-top: .3rem;
+    margin-top: 1rem;
     white-space: normal;
   }
 
@@ -103,17 +103,11 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
       border-top-right-radius: 0;
       border-bottom-right-radius: 0;
       left: .5px;
-      &::before {
-        content: $prompt-older
-      }
     }
     &:last-child {
       border-top-left-radius: 0;
       border-bottom-left-radius: 0;
       right: .5px;
-      &::before {
-        content: $prompt-newer
-      }
     }
   }
 } // .post-navigation
