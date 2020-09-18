@@ -21,8 +21,8 @@ layout: compress
   <link href="{{ site.url }}" rel="alternate" type="text/html" />
   <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
   <rights> © {{ 'now' | date: '%Y' }} {{ site.author }} </rights>
-  <icon>{{ site.baseurl }}/assets/img/brand/favicon.ico</icon>
-  <logo>{{ site.baseurl }}/assets/img/brand/favicon-96x96.png</logo>
+  <icon>{{ site.baseurl }}/assets/img/brand/favicon.202009.ico</icon>
+  <logo>{{ site.baseurl }}/assets/img/brand/favicon-96x96.202009.png</logo>
 
 {% for post in site.posts limit: 5 %}
   {% assign post_absolute_url = site.url | append: post.url %}
