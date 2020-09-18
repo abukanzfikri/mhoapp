@@ -28,7 +28,7 @@ description: "Bagaimana penanganan sesak nafas? Apa saja yang perlu dihindari."
  </ol>
 </ol>
     
-<div>Herbal-herbal tersebut sudah disinergikan dengan perbandingan komposisi yang sedimikian rupa dalam <a href="/produk" title="Produk herbAttaubah">produk</a> <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Konsumsi produk tersebut dengan diseduh air hangat.</div>
+<div>Herbal-herbal tersebut sudah disinergikan dengan perbandingan komposisi yang sedimikian rupa dalam <a href="/produk" title="Produk herbAttaubah">produk</a> <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Konsumsi produk tersebut dengan diseduh air hangat.</div>
 
 <h1>Apa yang Harus Dilakukan?</h1>
 

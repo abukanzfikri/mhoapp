@@ -53,4 +53,4 @@ Saat semua itu terjadi, maka tubuh akan mengeluarkan keringat dingin.</div>
 <li>Laban</li>
 <li>Tejalawang</li></ol>
 
-<div>Sebagian herbal-herbal tersebut sudah ada di dalam produk <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>, sedangkan sebagian lainnya terdapat pada <a href="/produk/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a>.</div>
+<div>Sebagian herbal-herbal tersebut sudah ada di dalam produk <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>, sedangkan sebagian lainnya terdapat pada <a href="/posts/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a>.</div>

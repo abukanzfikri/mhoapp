@@ -24,8 +24,8 @@ image: https://4.bp.blogspot.com/-C7v6k-BXDuY/XX_BMTlrTlI/AAAAAAAADpc/RJyfVfvCcP
 <div>Selain itu, perlu juga konsumsi herbal-herbal yang bersifat panas dan <i>deuretik</i> atau peluruh kencing. Herbal tersebut diantaranya:</div>
 
 <ol>
-<li><a href="/produk/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbatsauda</a>,</li>
-<li><a href="/produk/kapsul-wabang-mekah" title="Kapsul Bawang Mekah">Bawang Mekah</a>,</li>
+<li><a href="/posts/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbatsauda</a>,</li>
+<li><a href="/posts/kapsul-wabang-mekah" title="Kapsul Bawang Mekah">Bawang Mekah</a>,</li>
 <li><a href="/tabs/tags/madu" title="Label Madu">Madu</a> ditambah jahe,</li></ol>
 
 <div>Ada pun makanan yang perlu dihindari adalah gula pasir, teh, roti, dan es.</div>

@@ -6,7 +6,7 @@ image: https://2.bp.blogspot.com/-Sro6Mxz7Hl4/Xh1AslDQT8I/AAAAAAAAEpQ/bmZ1b1OWbE
 description: "Kapsul Zaitun Ruqyah Zaqiyah"
 ---
 
-<div>Zaitun adalah salah satu <a href="/produk">herbal</a> yang kaya akan manfaat. Khasiat-khasiat yang terkandung di dalamnya sudah terbukti dan dipercaya. Maka, tidak heran jika herbal ini banyak diolah dalam berbagai bentuk <a href="/produk">produk</a>, seperti: virgin oil, <a href="/produk/sabun-mandi">sabun mandi</a>, <a href="/produk/sabun-wajah">sabun wajah</a>, <a href="/produk/sampo-herbal">shampoo</a>, bahkan <a href="/tabs/tags/estetik">kosmetik</a>. Dan CV. herbAttaubah juga mempunyai produk baru yang berbahan dasar utama dari zaitun, yaitu <b>Kapsul Zaqiyah</b>.</div>
+<div>Zaitun adalah salah satu <a href="/produk">herbal</a> yang kaya akan manfaat. Khasiat-khasiat yang terkandung di dalamnya sudah terbukti dan dipercaya. Maka, tidak heran jika herbal ini banyak diolah dalam berbagai bentuk <a href="/produk">produk</a>, seperti: virgin oil, <a href="/posts/sabun-mandi">sabun mandi</a>, <a href="/posts/sabun-wajah">sabun wajah</a>, <a href="/posts/sampo-herbal">shampoo</a>, bahkan <a href="/tabs/tags/estetik">kosmetik</a>. Dan CV. herbAttaubah juga mempunyai produk baru yang berbahan dasar utama dari zaitun, yaitu <b>Kapsul Zaqiyah</b>.</div>
 
 <h1>Kandungan Kapsul Zaqiyah</h1>
 

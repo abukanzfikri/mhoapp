@@ -31,7 +31,7 @@ description: "Spirulinakids Anak Sholeh"
 <li>0 - 12 bulan: oleskan pada bibir</li>
 <li>1 - 5 tahun: 2-3 kali sehari, 1 SDT</li>
 <li>5 tahun: 2-3 kali sehari, 1 SDM</li>
-<li>Dapat dicampur dengan <a href="/produk/susu-kambing-etawa" title="Susu Kambing Etawa Organik Attaubah">Susu Kambing Etawa</a>, atau sebagai pengganti selai roti.
+<li>Dapat dicampur dengan <a href="/posts/susu-kambing-etawa" title="Susu Kambing Etawa Organik Attaubah">Susu Kambing Etawa</a>, atau sebagai pengganti selai roti.
 
 <h1>Harga Spirulinakids Anak Sholeh</h1>
 

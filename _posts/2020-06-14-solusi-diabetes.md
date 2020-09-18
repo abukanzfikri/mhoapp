@@ -24,7 +24,7 @@ image: "https://4.bp.blogspot.com/-s6UNq9W9e8I/XuV2T7wQxsI/AAAAAAAAFEQ/c9OKt6TDD
 
 <h1>Apakah Diabetes Penyakit Turunan?</h1>
 
-<div>Jawaban sederhananya adalah diabetes tidak diturunkan dari orangtua kepada anak. Hal ini pernah disinggung dalam materi <a href="/materi" title="Materi MHO">Materi MHO</a> lainnya, <a href="/materi/kopi-herbattaubah-untuk-diabetes" title="Kopi herbAttaubah untuk Diabetes">Kopi Herbattaubah untuk Diabetes</a>.
+<div>Jawaban sederhananya adalah diabetes tidak diturunkan dari orangtua kepada anak. Hal ini pernah disinggung dalam materi <a href="/materi" title="Materi MHO">Materi MHO</a> lainnya, <a href="/posts/kopi-herbattaubah-untuk-diabetes" title="Kopi herbAttaubah untuk Diabetes">Kopi Herbattaubah untuk Diabetes</a>.
 
 <h1>Apakah Diabetes Ada Obatnya?</h1>
 
@@ -36,10 +36,10 @@ image: "https://4.bp.blogspot.com/-s6UNq9W9e8I/XuV2T7wQxsI/AAAAAAAAFEQ/c9OKt6TDD
 
 <div>Solusi mudah untuk diabetes adalah gerak sehingga tubuh menjadi panas, yaitu dengan olahraga. Selain itu, untuk memaksimalkan panas tersebut dapat disinergikan dengan mengkonsumsi jahe, kencur, dan ketumbar. Herbal tersebut sangat baik untuk mengatasi lendir. Konsumsi juga herbal-herbal yang meningkatkan kerja enzim, seperti jahe, kencur, dan kayumanis. Serta herbal-herbal yang membantu penyerapan nutrisi seperti: kunyit, dan temulawak.</div>
 
-<div>Herbal-herbal tersebut sudah disinergikan dengan takaran yang tepat dalam produk <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.
+<div>Herbal-herbal tersebut sudah disinergikan dengan takaran yang tepat dalam produk <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.
 
-<div>Sedangkan untuk membantu mengangkat unsur dingin dalam tubuh yang berlebih, konsumsi <a href="/produk/kapsul-habbapro" title="Kapsul Habbapro">Kapsul Habbapro</a> atau <a href="/produk/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbasy Oil</a>.</div>
+<div>Sedangkan untuk membantu mengangkat unsur dingin dalam tubuh yang berlebih, konsumsi <a href="/posts/kapsul-habbapro" title="Kapsul Habbapro">Kapsul Habbapro</a> atau <a href="/posts/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbasy Oil</a>.</div>
 
 <h1>Bagaimana Cara Konsumsi Produk Tersebut?</h1>
 
-<div>Minum <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> 2-3 SDM diseduh dengan air hangat. Sedangkan <a href="/produk/kapsul-habbapro" title="Kapsul Habbapro">Kapsul Habbapro</a> atau <a href="/produk/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbasy Oil</a> sebanyak 3-5 kapsul. Konsumsi 3x sehari sebelum makan atau ketika sahur dan berbuka puasa.</div>
+<div>Minum <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> 2-3 SDM diseduh dengan air hangat. Sedangkan <a href="/posts/kapsul-habbapro" title="Kapsul Habbapro">Kapsul Habbapro</a> atau <a href="/posts/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbasy Oil</a> sebanyak 3-5 kapsul. Konsumsi 3x sehari sebelum makan atau ketika sahur dan berbuka puasa.</div>

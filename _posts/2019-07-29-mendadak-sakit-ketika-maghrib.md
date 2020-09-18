@@ -39,12 +39,12 @@ image: https://1.bp.blogspot.com/-US-s4npPKWk/XYGP2OGznrI/AAAAAAAADvI/Lubh4pPTmJ
 <div>Ada beberapa sinergi herbal yang dapat dikonsumsi sesuai dengan kondisi yang terjadi. Yaitu ketika sudah terganggu tidurnya, tidak lancar BAB, ada radang atau sakit, maka diperlukan sinergi:</div>
 
 <ol>
-<li><a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> 2 sdm 3x plus air hangat.</li>
+<li><a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> 2 sdm 3x plus air hangat.</li>
 <li>Herba bugar 3 hisap/kapsul 3x sehari</li>
 <li>Perbanyak konsumsi air hangat.</li></ol>
 
 <div>Sedangkan jika hanya merasakan keluhan sesak dan lemas, maka cukuk konsumsi:</div>
 
 <ol>
-<li><a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> plus air hangat</li>
-<li>atau <a href="/produk/madu-hutan-premium" title="Madu Hutan Premium">Madu Hutan Premium</a> atau <b>Madu Hutan Golden</b> plus <a href="/produk/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbatussauda</a></li></ol>
+<li><a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> plus air hangat</li>
+<li>atau <a href="/posts/madu-hutan-premium" title="Madu Hutan Premium">Madu Hutan Premium</a> atau <b>Madu Hutan Golden</b> plus <a href="/posts/kapsul-habbasy-oil" title="Kapsul Habbasy Oil">Habbatussauda</a></li></ol>

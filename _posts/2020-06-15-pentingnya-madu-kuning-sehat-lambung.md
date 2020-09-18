@@ -31,6 +31,6 @@ image: https://2.bp.blogspot.com/-jHsTr3KcCT4/XuYnWG-DxkI/AAAAAAAAFFI/UVnTde0Z82
 
 <h1>Mengapa Butuh Madu Kuning Sehat Lambung?</h1>
 
-<div>Seperti dijelaskan sebelumnya, di dalam masyarakat masih dijumpai kebiasaan-kebiasaan yang merusak tubuh, yang erat kaitannya dengan organ lambung. Oleh karena itu, maka sangat tepat jika masyarakat rutin mengkonsumsi <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
+<div>Seperti dijelaskan sebelumnya, di dalam masyarakat masih dijumpai kebiasaan-kebiasaan yang merusak tubuh, yang erat kaitannya dengan organ lambung. Oleh karena itu, maka sangat tepat jika masyarakat rutin mengkonsumsi <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
 
-<div>Selain madu, yang sudah terbukti berkhasiat menyembuhkan dan menghilangkan berbagai keluhan dan kelemahan tubuh, <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> mengandung beberapa herbal lain, seperti: kunyit, temulawak, kencur, jahe, alangalang, ketumbar, kayumanis, mengkudu.</div>
+<div>Selain madu, yang sudah terbukti berkhasiat menyembuhkan dan menghilangkan berbagai keluhan dan kelemahan tubuh, <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> mengandung beberapa herbal lain, seperti: kunyit, temulawak, kencur, jahe, alangalang, ketumbar, kayumanis, mengkudu.</div>

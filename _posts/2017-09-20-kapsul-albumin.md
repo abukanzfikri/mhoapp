@@ -10,7 +10,7 @@ description: "Kapsul Albumin"
 
 <h1>Kandungan Kapsul Albumin<h1>
 
-<div><a href="/produk/kapsul-albumin" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.
+<div><a href="/posts/kapsul-albumin" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.
 
 <h1>Manfaat Kapsul Albumin</h1>
 
@@ -31,8 +31,8 @@ description: "Kapsul Albumin"
 
 <ol>
 <li>Minum 2-3 kapsul setidaknya 2x sehari (pagi dan malam hari).</li>
-<li>Selain dikonsumsi secara langsung, <a href="/produk/kapsul-albumin" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> dapat diminum dengan cara dicampur dengan <a href="/produk/kapsul-spirulina" title="Kapsul Spirulina">Kapsul Spirulina</a>:
-<a href="/produk/kapsul-spirulina" title="Kapsul Spirulina">Kapsul Spirulina</a> 3 kapsul dan <a href="/produk/kapsul-albumin" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> 2 kapsul, semua dibuka cangkang kapsulnya, dan <a href="/produk/madu-multiflora" title="Madu Multiflora">Madu Multiflora</a> dimasukkan ke dalam botol. Dikocok 50 kali.</li></ol>
+<li>Selain dikonsumsi secara langsung, <a href="/posts/kapsul-albumin" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> dapat diminum dengan cara dicampur dengan <a href="/posts/kapsul-spirulina" title="Kapsul Spirulina">Kapsul Spirulina</a>:
+<a href="/posts/kapsul-spirulina" title="Kapsul Spirulina">Kapsul Spirulina</a> 3 kapsul dan <a href="/posts/kapsul-albumin" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> 2 kapsul, semua dibuka cangkang kapsulnya, dan <a href="/posts/madu-multiflora" title="Madu Multiflora">Madu Multiflora</a> dimasukkan ke dalam botol. Dikocok 50 kali.</li></ol>
 
 <h1>Harga Kapsul Albumin</h1>
 

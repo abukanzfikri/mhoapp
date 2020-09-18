@@ -10,9 +10,9 @@ image: https://4.bp.blogspot.com/-TaJLyuQOwqM/XYGP2GEyoCI/AAAAAAAADvI/oKdQrnUe-_
 <div>Kali ini, materi MHO mengkhususkan pembahasan pada satu kondisi lidah saja. Yaitu, kondisi lidah bergerigi atau terlihat tidak rata di bagian pinggir lidah. Materi-materi tentang diagnosa lidah yang sudah kami tuliskan dapat dibaca lagi, diantaranya:</div>
 
 <ol>
-<li><a href="/materi/diagnosa-lidah-permasalahan-reproduksi" title="Diagnosa Lidah dan Masalah Organ Reproduksi">Diagnosa Lidah dan Masalah Organ Reproduksi</a>.</li>
-<li><a href="/materi/diagnosa-lidah-panas-dan-kering" title="Diagnosa Lidah: Panas & Kering">Diagnosa Lidah: Panas & Kering</a>.</li>
-<li><a href="/materi/diagnosa-berbagai-kondisi-lidah" title="Diagnosa Berbagai Kondisi Lidah">Diagnosa Berbagai Kondisi Lidah</a>.</li></ol>
+<li><a href="/posts/diagnosa-lidah-permasalahan-reproduksi" title="Diagnosa Lidah dan Masalah Organ Reproduksi">Diagnosa Lidah dan Masalah Organ Reproduksi</a>.</li>
+<li><a href="/posts/diagnosa-lidah-panas-dan-kering" title="Diagnosa Lidah: Panas & Kering">Diagnosa Lidah: Panas & Kering</a>.</li>
+<li><a href="/posts/diagnosa-berbagai-kondisi-lidah" title="Diagnosa Berbagai Kondisi Lidah">Diagnosa Berbagai Kondisi Lidah</a>.</li></ol>
 
 <div>Lidah bergerigi adalah salah satu indikasi seseorang mengalami kelemahan fisik yang disebabkan oleh kurangnya nutrisi yang terserap oleh tubuh. Nutrisi yang kurang ini dapat terjadi karena kurangnya kandungan nutrisi dalam makanan yang dikonsumsi atau terlalu banyak konsumsi makanan yang manis.</div>
 
@@ -48,4 +48,4 @@ image: https://4.bp.blogspot.com/-TaJLyuQOwqM/XYGP2GEyoCI/AAAAAAAADvI/oKdQrnUe-_
 <li>Makanan yang dihangatkan.</li>
 <li>Makanan yang proses dengan panas tinggi.</li></ol>
 
-<div>Selain menghindari makanan-makanan tersebut di atas, lidah bergerigi dengan berbagai diagnosa yang ada tersebut, dapat disolusikan dengan mengkonsumsi <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
+<div>Selain menghindari makanan-makanan tersebut di atas, lidah bergerigi dengan berbagai diagnosa yang ada tersebut, dapat disolusikan dengan mengkonsumsi <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>

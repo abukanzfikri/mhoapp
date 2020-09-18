@@ -22,7 +22,7 @@ description: "Kopi herbAttaubah berkerja untuk menjaga tubuh tetap ideal"
 
 <div>Semakin tinggi angin dan lendir di dalam tubuh akan semakin melemahkan otot perut. Ketika otot perut lemah, berat badan akan mudah bertambah walaupun makanan yang dikonsumi hanya sedikit.</div>
 
-<div>Adapun fungsi dari <a href="/produk/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a> dalam kondisi seperti ini adalah:</div>
+<div>Adapun fungsi dari <a href="/posts/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a> dalam kondisi seperti ini adalah:</div>
 
 <ol><li>Menetralkan angin dalam perut dan usus; kandungan tebu gajah akan menetralkan angin dalam tubuh sehingga gerak organ akan maksimal. Biasanya penderita akan lebih sering buang angin dan badan terasa lebih bugar.</li>
 <li>Mengeluarkan lendir /dahak; Mengkudu dan teja lawang berfungsi mengeluarkan dahak yang tinggi sehingga perut atau usus terasa ringan. Maka, wajar saja orang yang lendir dalam tubuhnya tinggi akan merasa mulas pasca minum Kopi herbAttaubah.</li>
@@ -30,6 +30,6 @@ description: "Kopi herbAttaubah berkerja untuk menjaga tubuh tetap ideal"
 
 <h1>Bagaimana Cara Konsumsi Kopi herbAttaubah untuk Tubuh Ideal?</h1>
 
-Minumlah <a href="/produk/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini di saat perut kosong dan rebus (bukan diseduh) herbal ini dengan air 150 ml. Dan ingat, setiap konsumsi Kopi herbAttaubah, perbanyak pula konsumsi air putih agar mendapatkan hasil yang maksimal.</div>
+Minumlah <a href="/posts/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini di saat perut kosong dan rebus (bukan diseduh) herbal ini dengan air 150 ml. Dan ingat, setiap konsumsi Kopi herbAttaubah, perbanyak pula konsumsi air putih agar mendapatkan hasil yang maksimal.</div>
 
 <div>Selain itu, jika mengalami gangguan tidur, sebaiknya menghindari makanan-makanan yang mengandung gula pasir, roti cokelat, roti bolu, teh manis, makanan yang sudah dihangatkan, serta buah-buahan yang mengandung banyak air.</div>

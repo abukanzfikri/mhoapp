@@ -25,7 +25,7 @@ image: https://2.bp.blogspot.com/-vXr0UtgD4EM/XapemWXxG4I/AAAAAAAAD7w/oY48NRYfV0
 
 <h1>Bagaimana Kopi herbAttaubah Bekerja Menjaga Libido?</h1>
 
-<div>Seperti sudah disampaikan di atas, mengenai penurunan libido dan faktor penyebabnya, kandungan-kandungan dalam produk <a href="/produk/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a> berkhasiat antara lain:</div>
+<div>Seperti sudah disampaikan di atas, mengenai penurunan libido dan faktor penyebabnya, kandungan-kandungan dalam produk <a href="/posts/kopi-herbattaubah" title="Kopi herbAttaubah">Kopi herbAttaubah</a> berkhasiat antara lain:</div>
 
 <ol><li>Kandungan pasak bumi dapat meningkatkan produksi hormon serta meningkatkan stamina.</li>
 <li>Mengkudu hutan berkhasiat untuk mengurangi resiko sakit jantung dan darah tinggi. Selain itu, berkhasiat juga untuk keluhan insomnia.</li>

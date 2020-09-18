@@ -48,8 +48,8 @@ image: https://3.bp.blogspot.com/-YQ_cS4B03uU/XghyOZRlgKI/AAAAAAAAEfs/3ldGd6TjPi
 
 <h1>Bagaimana Solusi Infeksi Usus?</h1>
 
-<div>Melihat penjelasan mengenai infeksi usus di atas, maka produk yang tepat adalah <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Di dalam <a href="/produk" title="Produk herbAttaubah">produk</a> tersebut terdapat herbal kunyit, temulawak, jahe dan kencur.</div>
+<div>Melihat penjelasan mengenai infeksi usus di atas, maka produk yang tepat adalah <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Di dalam <a href="/produk" title="Produk herbAttaubah">produk</a> tersebut terdapat herbal kunyit, temulawak, jahe dan kencur.</div>
 
 <div>Kunyit berkhasiat untuk mengatasi mual, peradangan, diare. Temulawak berkhasiat untuk mengatasi infeksi bakteri dan anti radang. Jahe berkhasiat untuk mengatasi mual dan peradangan. Kencur berkhasiat untuk diare dan menyembuhkan luka. Sinergi dari herbal-herbal tersebut akan mengangkat dahak yang muncul akibat dari kondisi lembab dingin yang menyebabkan daya tahan tubuh menurun.</div>
 
-<div>Konsumsi <a href="/produk/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dengan diseduh dalam air hangat. Rutin diminum sebelum makan.</div>
+<div>Konsumsi <a href="/posts/madu-kuning-sehat-lambung" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dengan diseduh dalam air hangat. Rutin diminum sebelum makan.</div>
