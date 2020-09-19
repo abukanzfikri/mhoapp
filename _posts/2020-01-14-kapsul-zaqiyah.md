@@ -1,12 +1,12 @@
 ---
-title:  Kapsul Zaitun Zaqiyah
+title: Kapsul Zaitun Zaqiyah
 categories: [Produk]
 tags: [Kapsul,Zaitun,Ruqyah]
 image: https://2.bp.blogspot.com/-Sro6Mxz7Hl4/Xh1AslDQT8I/AAAAAAAAEpQ/bmZ1b1OWbEw_xfFJwjTSX_0qyj90x8DlwCKgBGAsYHg/s1600/201910-produk-zaqiyah.png
 description: "Kapsul Zaitun Ruqyah Zaqiyah"
 ---
 
-<div>Zaitun adalah salah satu <a href="/produk">herbal</a> yang kaya akan manfaat. Khasiat-khasiat yang terkandung di dalamnya sudah terbukti dan dipercaya. Maka, tidak heran jika herbal ini banyak diolah dalam berbagai bentuk <a href="/produk">produk</a>, seperti: virgin oil, <a href="/posts/sabun-mandi">sabun mandi</a>, <a href="/posts/sabun-wajah">sabun wajah</a>, <a href="/posts/sampo-herbal">shampoo</a>, bahkan <a href="/tabs/tags/estetik">kosmetik</a>. Dan CV. herbAttaubah juga mempunyai produk baru yang berbahan dasar utama dari zaitun, yaitu <b>Kapsul Zaqiyah</b>.</div>
+<div>Zaitun adalah salah satu <a href="/categories/produk">herbal</a> yang kaya akan manfaat. Khasiat-khasiat yang terkandung di dalamnya sudah terbukti dan dipercaya. Maka, tidak heran jika herbal ini banyak diolah dalam berbagai bentuk <a href="/categories/produk">produk</a>, seperti: virgin oil, <a href="/posts/sabun-mandi-dq0">sabun mandi</a>, <a href="/posts/sabun-wajah-bbk">sabun wajah</a>, <a href="/posts/sampo-herbal">shampoo</a>, bahkan <a href="/tags/estetik">kosmetik</a>. Dan CV. herbAttaubah juga mempunyai produk baru yang berbahan dasar utama dari zaitun, yaitu <b>Kapsul Zaqiyah</b>.</div>
 
 <h1>Kandungan Kapsul Zaqiyah</h1>
 
@@ -32,11 +32,3 @@ description: "Kapsul Zaitun Ruqyah Zaqiyah"
 
 <ol><li>Konsumsi 2-3 kapsul Zaqiyah 3x sehari.</li>
     <li>Buka kapsul Zaqiyah untuk digunakan sebagai masker atau dioles.</li></ol>
-
-<h1>Harga Kapsul Zaqiyah</h1>
-
-<div>Zaqiyah Attaubah hadir dengan dua ukuran:</div>
-    
-<ol>
-<li>Isi 200 kapsul: Rp95.000</li>
-<li>Isi 350 kapsul: Rp130.000</li></ol>

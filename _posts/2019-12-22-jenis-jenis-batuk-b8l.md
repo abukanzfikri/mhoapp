@@ -49,6 +49,6 @@ image: https://1.bp.blogspot.com/-L6Wm2VSeXPs/Xf8V9ExyF1I/AAAAAAAAEZo/hp3zD9tKrd
 
 <h1>Penanganan Batuk Pada Anak</h1>
 
-<div>Batuk yang terjadi pada anak disertai suara parau serta nafas sesak bisa mengindikasikan terkena <a href="/posts/solusi-difteri" title="Materi MHO Solusi Difteri">difteri</a>. Dalam kondisi seperti ini, penting untuk konsumsi <a href="/posts/spirulinakids-anak-sholeh-uce" title="Spirulinakids Anak Sholeh">Spirulinakids Anak Sholeh</a> dan tambahkan <a href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
+<div>Batuk yang terjadi pada anak disertai suara parau serta nafas sesak bisa mengindikasikan terkena <a href="/posts/solusi-difteri-8s8" title="Materi MHO Solusi Difteri">difteri</a>. Dalam kondisi seperti ini, penting untuk konsumsi <a href="/posts/spirulinakids-anak-sholeh-uce" title="Spirulinakids Anak Sholeh">Spirulinakids Anak Sholeh</a> dan tambahkan <a href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
 
 <blockquote>Ingat! Ketika batuk, hindari dingin, keletihan, makanan yang menyebabkan lembab, seperti: makanan kering, gula pasir, makanan dihangatkan, dan makanan yang lebih dari delapan jam</blockquote>

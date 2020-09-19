@@ -38,4 +38,5 @@
 <!-- PWA -->
 {% if jekyll.environment == 'production' %}
   <script src="{{ '/app.js' | relative_url }}" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwainstall" type="module"></script>
 {% endif %}

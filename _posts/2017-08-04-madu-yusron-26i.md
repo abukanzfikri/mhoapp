@@ -2,7 +2,7 @@
 title: Madu Yusron
 categories: [Produk]
 tags: [Madu]
-image: https://2.bp.blogspot.com/-Hpj4A2XaF1I/WYP23SMY-pI/AAAAAAAAB1A/YIsVtBDNgUw1QVqwNJZohYHS0sDVICIAACKgBGAs/s1600/madu-yusron-26i.png
+image: https://2.bp.blogspot.com/-Hpj4A2XaF1I/WYP23SMY-pI/AAAAAAAAB1A/YIsVtBDNgUw1QVqwNJZohYHS0sDVICIAACKgBGAs/s1600/madu-yusron.png
 description: "Madu Yusron"
 ---
 

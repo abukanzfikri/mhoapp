@@ -20,7 +20,7 @@ description: "Herb ASI Solusi"
 <li>Daun katuk: sangat efektif dalam memperbanyak mempercepat dan melancarkan produksi ASI.</li>
 <li><i>Fenugreek</i> (Klabet): berkhasiat meningkatkan produksi ASI.</li>
 <li>Habbatsauda: meningkatkan bioaktifitas hormon, menetralkan racun dalam tubuh, sebagai antitumor.</li>
-<li>Beepollen: mengandung asam linoleat (omega3) yang bagus untuk pertumbuhan sel-sel otak pada bayi.</li></ol>
+<li>Beepollen: mengandung <i>asam linoleat</i> (omega3) yang bagus untuk pertumbuhan sel-sel otak pada bayi.</li></ol>
 
 <div>Sinergi kandungan dalam herbal ini mempunyai khasiat antara lain:</div>
 

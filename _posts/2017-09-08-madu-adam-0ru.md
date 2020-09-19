@@ -2,7 +2,7 @@
 title: Madu Adam
 categories: [Produk]
 tags: [Madu,Pria,Kejantanan]
-image: https://3.bp.blogspot.com/--bBKWBpQbvc/WbHrINJ8n4I/AAAAAAAAAeU/Do6AZcqjKRAXV0OPzKZGQbIoEIFDIY3VgCKgBGAs/s1600/madu-adam-0ru.png
+image: https://3.bp.blogspot.com/--bBKWBpQbvc/WbHrINJ8n4I/AAAAAAAAAeU/Do6AZcqjKRAXV0OPzKZGQbIoEIFDIY3VgCKgBGAs/s1600/madu-adam.png
 description: "Madu Khusus pria dewasa"
 ---
 
