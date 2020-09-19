@@ -48,4 +48,4 @@ title: About
 
 <div>Aplikasi Arsip MHO dapat diinstal pada perangkat yang mendukung PWA, disarankan menggunakan Google Chrome, untuk mendapatkan pengamalam terbaik dalam menjelajahi aplikasi Arsip MHO</div>
 
-<pwa-install manifestpath="../assets/img/brand/manifest.webmanifest" explainer="Aplikasi MHO menghadirkan materi-materi MHO langsung di perangkat Anda. Insya-Alloh, kami akan mengupdate database materi MHO secara berkala" descriptionheader="Deskripsi" installbuttontext="Install aplikasi" featuresheader="Kelebihan" ></pwa-install>
+<pwa-install manifestpath="{{ site.baseurl }}/assets/img/brand/manifest.webmanifest" explainer="Aplikasi MHO menghadirkan materi-materi MHO langsung di perangkat Anda. Insya-Alloh, kami akan mengupdate database materi MHO secara berkala" descriptionheader="Deskripsi" installbuttontext="Install aplikasi" featuresheader="Kelebihan" ></pwa-install>
