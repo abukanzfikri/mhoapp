@@ -1,7 +1,7 @@
 ---
-title: "Kunci Vitalitas Pria"
+title: "Solusi Jerawat"
 categories: [Materi]
-tags: [Madu Kuning,Minyak Siaga,Salep Multiafiat]
+tags: [Madu Kuning,Minyak Siaga,Salep]
 image: https://2.bp.blogspot.com/-p5CwCkoJTGg/Xuf8wW2ZwxI/AAAAAAAAFGE/ldIJSHkVNsEUCooXOplaP9li2jqtfP3lgCPcBGAsYHg/s1600/202006-mho-penyebab-dan-solusi-jerawat.png
 ---
 
