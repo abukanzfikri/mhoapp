@@ -24,7 +24,7 @@ image: "https://4.bp.blogspot.com/-s6UNq9W9e8I/XuV2T7wQxsI/AAAAAAAAFEQ/c9OKt6TDD
 
 <h1>Apakah Diabetes Penyakit Turunan?</h1>
 
-<div>Jawaban sederhananya adalah diabetes tidak diturunkan dari orangtua kepada anak. Hal ini pernah disinggung dalam materi <a href="categories/materi" title="Materi MHO">Materi MHO</a> lainnya, <a href="/posts/kopi-herbattaubah-untuk-diabetes" title="Kopi herbAttaubah untuk Diabetes">Kopi Herbattaubah untuk Diabetes</a>.
+<div>Jawaban sederhananya adalah diabetes tidak diturunkan dari orangtua kepada anak. Hal ini pernah disinggung dalam materi <a href="/categories/materi" title="Materi MHO">Materi MHO</a> lainnya, <a href="/posts/kopi-herbattaubah-untuk-diabetes-toj" title="Kopi herbAttaubah untuk Diabetes">Kopi Herbattaubah untuk Diabetes</a>.
 
 <h1>Apakah Diabetes Ada Obatnya?</h1>
 

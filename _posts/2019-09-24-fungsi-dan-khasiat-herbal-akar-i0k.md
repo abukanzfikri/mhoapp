@@ -16,7 +16,7 @@ image: https://2.bp.blogspot.com/-yJn74qg4ZL8/XYmIcnl8bhI/AAAAAAAADw4/UakzVfXxNs
 <div>Seperti halnya sifat dan kondisi akar-akar yang kita lihat dan pahami di alam ini, herbal akar pun mempunyai fungsi dan khasiat yang tidak jauh berbeda. Berikut sedikit yang dapat kami sampaikan:</div>
 
 <ol><li>Sumber kesuburan
-<div>Herbal akar yang ada di dalam <a href="/posts/kopi-herbattaubah-mav.html">Kopi herbAttaubah</a> bermanfaat meningkatkan hormon sehingga akan menyuburkan bagi pasutri, sangat membantu program kehamilan dan menguatkan fisik serta daya tahan tubuh.</div></li>
+<div>Herbal akar yang ada di dalam <a href="/posts/kopi-herbattaubah-mav">Kopi herbAttaubah</a> bermanfaat meningkatkan hormon sehingga akan menyuburkan bagi pasutri, sangat membantu program kehamilan dan menguatkan fisik serta daya tahan tubuh.</div></li>
 <li>Sumber Kekuatan
 <div>Akar adalah sumber kekuatan sebuah pohon dapat berdiri kokoh, tidak tumbang. Maka, herba akar juga bermanfaat untuk menguatkan anak-anak dan remaja dalam setiap aktifitas, serta menguatkan vitalitas bagi suami dan istri.</div></li>
 <li>Sumber Nutrisi
