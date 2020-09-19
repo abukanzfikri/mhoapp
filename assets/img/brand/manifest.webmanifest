@@ -93,13 +93,13 @@ layout: compress
     "start_url": "{{ '/index.html?source=pwa' | relative_url }}",
     "display": "standalone",
     "theme_color": "#69F0AE",
-    "background_color": "69F0AE",
+    "background_color": "#69F0AE",
     "shortcuts": [
       {
         "name": "Materi",
         "short_name": "Materi",
         "description": "Lihat Daftar Materi MHO",
-        "url": "/categories/materi?source=pwa_mhoapp",
+        "url": "/mhoapp/categories/materi?source=pwa_mhoapp",
         "icons": [
           {
             "src": "{{ icon_url }}/materi-icon-circle.202009.png",
@@ -116,10 +116,10 @@ layout: compress
         "name": "Pengumuman",
         "short_name": "Pengumuman",
         "description": "Lihat Pengumuman Terbaru",
-        "url": "/categories/pengumuman?source=pwa_mhoapp",
+        "url": "/mhoapp/categories/pengumuman?source=pwa_mhoapp",
         "icons": [
           {
-            "src": "{{ icon_url }}/info-icon.202009.png",
+            "src": "{{ icon_url }}/info-icon-circle.202009.png",
             "sizes": "192x192"
           },
           {
@@ -133,10 +133,10 @@ layout: compress
         "name": "Produk",
         "short_name": "Produk",
         "description": "Lihat Daftar Produk",
-        "url": "/categories/produk?source=pwa_mhoapp",
+        "url": "/mhoapp/categories/produk?source=pwa_mhoapp",
         "icons": [
           {
-            "src": "{{ icon_url }}/categories/produk-icon.202009.png",
+            "src": "{{ icon_url }}/categories/produk-icon-circle.202009.png",
             "sizes": "192x192"
             },
           {
