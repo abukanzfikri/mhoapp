@@ -90,7 +90,7 @@ const include = [
   '{{ icon_url }}/favicon-96x96.202009.png',
   '{{ icon_url }}/favicon-16x16.202009.png',
   '{{ icon_url }}/ms-icon-144x144.202009.png',
-  '{{ icon_url }}/manifest.json',
+  '{{ icon_url }}/manifest.webmanifest',
   '{{ icon_url }}/browserconfig.xml',
 
   /*--- Others ---*/
