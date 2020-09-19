@@ -136,12 +136,12 @@ layout: compress
         "url": "/mhoapp/categories/produk?source=pwa_mhoapp",
         "icons": [
           {
-            "src": "{{ icon_url }}/categories/produk-icon-circle.202009.png",
+            "src": "{{ icon_url }}/produk-icon-circle.202009.png",
             "sizes": "192x192"
             },
           {
             "purpose":"maskable",
-            "src": "{{ icon_url }}/categories/produk-icon-maskable.202009.png",
+            "src": "{{ icon_url }}/produk-icon-maskable.202009.png",
             "sizes": "192x192"
             }
           ]
