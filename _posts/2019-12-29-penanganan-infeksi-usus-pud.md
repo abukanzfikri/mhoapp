@@ -20,11 +20,11 @@ image: https://3.bp.blogspot.com/-YQ_cS4B03uU/XghyOZRlgKI/AAAAAAAAEfs/3ldGd6TjPi
 <div>Adapun mikro organisme yang dapat menyebabkan infeksi pada usus, antara lain:</div>
 
 <ol><li>Virus
-<p>Jenis virus yang sering menyembabkan infeksi usus diantaranya: <i>Rotavirus</i> dan <i>Norovirus</i>. Rotavirus biasanya menyerang usia balita dan anak-anak.</p></li>
+<div>Jenis virus yang sering menyembabkan infeksi usus diantaranya: <i>Rotavirus</i> dan <i>Norovirus</i>. Rotavirus biasanya menyerang usia balita dan anak-anak.</div></li>
 <li>Bakteri
-<p>Jenis bakteri yang menyebabkan infeksi usus di antaranya: <i>E. coli</i>, <i>Clostridium perfringens</i>, <i>Salmonella</i>, dan <i>Shigella</i>.</p></li>
+<div>Jenis bakteri yang menyebabkan infeksi usus di antaranya: <i>E. coli</i>, <i>Clostridium perfringens</i>, <i>Salmonella</i>, dan <i>Shigella</i>.</div></li>
 <li>Parasit
-<p>Parasit yang sering menyebabkan infeksi usus adalah <i>Giardia lamblia</i>. Jenis parasit ini banyak dijumpai di air sungai, danau, ataupun kolam renang.</p></li></ol>
+<div>Parasit yang sering menyebabkan infeksi usus adalah <i>Giardia lamblia</i>. Jenis parasit ini banyak dijumpai di air sungai, danau, ataupun kolam renang.</div></li></ol>
 
 <h1>Bagaimana Gejala Infeksi Usus?</h1>
 

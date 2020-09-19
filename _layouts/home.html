@@ -57,10 +57,8 @@ layout: page
       {% endif %}
     </div>
     <div class="post-content">
-      <p>
         {% include no-linenos.html content=post.content %}
         {{ content | markdownify | strip_html | truncate: 200 }}
-      </p>
     </div>
 
     <div class="post-meta text-muted">
