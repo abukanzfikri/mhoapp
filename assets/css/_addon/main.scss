@@ -87,7 +87,7 @@ $sidebar-display: "sidebar-display";
     text-align: center;
     a {
       // color: var(--site-title-color);
-      font-weight: 900;
+      font-weight: 700;
       font-size: 1.5rem;
       letter-spacing: .5px;
       &:hover {
@@ -126,7 +126,7 @@ $sidebar-display: "sidebar-display";
     }
     &.active {
       .nav-link {
-        color: #202124;
+        color: var(--nav-link-active);
       }
     }
   }
@@ -793,7 +793,6 @@ div.post-content .table-wrapper {
   word-spacing: 1px;
   a {
     @extend %link-color;
-    @extend %link-underline;
     &:not(:last-child) {
       margin-right: 2px;
     }
@@ -810,7 +809,6 @@ div.post-content .table-wrapper {
   word-wrap: break-word;
   a {
     @extend %link-color;
-    @extend %link-underline;
     &:hover {
       @extend %link-hover;
     }
