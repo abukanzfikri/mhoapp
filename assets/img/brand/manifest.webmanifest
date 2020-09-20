@@ -36,11 +36,8 @@ layout: compress
       "type": "image/png"
     }
   ],
-  "features": [
-    "Tampilan Sederhana",
-    "Mudah Diakses",
-    "Konten Lengkap"
-  ],
+  "features": ["Tampilan Sederhana","Mudah Diakses","Konten Lengkap"],
+  "categories": ["education","health","medical",]
   "icons": [
     {
       "purpose":"maskable",
