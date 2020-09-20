@@ -2,7 +2,7 @@ name: 'Automatic build'
 on:
   push:
     branches:
-      - master
+      - sumber-mhoapp
     paths-ignore:
       - '.gitignore'
       - 'README.md'
