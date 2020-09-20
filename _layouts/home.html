@@ -52,7 +52,7 @@ layout: page
     <div class="d-flex justify-content-between pr-xl-2">
       <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
       {% if post.pin == true %}
-        <i class="fas fa-thumbtack fa-fw text-muted mt-1 ml-2 mt-xl-2" data-toggle="tooltip" data-placement="left"
+        <i class="mdi mdi-pin fa-fw text-muted mt-1 ml-2 mt-xl-2" data-toggle="tooltip" data-placement="left"
         title="Pinned"></i>
       {% endif %}
     </div>
@@ -63,7 +63,7 @@ layout: page
 
     <div class="post-meta text-muted">
       <!-- posted date -->
-      <i class="far fa-clock fa-fw"></i>
+      <i class="mdi mdi-clock-outline fa-fw"></i>
       {% include timeago.html date=post.date tooltip=true %}
 
       <!-- page views -->

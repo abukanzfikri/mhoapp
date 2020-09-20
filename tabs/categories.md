@@ -41,9 +41,9 @@ type: categories
         id="{{ HEAD_PREFIX }}{{ group_index }}">
       <span>
       {% if sub_categories_size > 0 %}
-        <i class="far fa-folder-open fa-fw"></i>
+        <i class="mdi mdi-folder-outline-open fa-fw"></i>
       {% else %}
-        <i class="far fa-folder fa-fw"></i>
+        <i class="mdi mdi-folder-outline fa-fw"></i>
       {% endif %}
         <a href="{{ site.baseurl }}/categories/{{ category_name | replace: ' ', '-' | downcase | url_encode }}/"
           class="ml-1 mr-2">
@@ -66,11 +66,11 @@ type: categories
       {% if sub_categories_size > 0%}
       <a href="#{{ LIST_PREFIX }}{{ group_index }}" data-toggle="collapse" aria-expanded="true"
           class="category-trigger hide-border-bottom">
-        <i class="fas fa-fw fa-angle-down"></i>
+        <i class="mdi fa-fw mdi-chevron-down"></i>
       </a>
       {% else %}
       <span data-toggle="collapse" class="category-trigger hide-border-bottom disabled">
-        <i class="fas fa-fw fa-angle-right"></i>
+        <i class="mdi fa-fw mdi-chevron-right"></i>
       </span>
       {% endif %}
 
@@ -82,7 +82,7 @@ type: categories
       <ul class="list-group">
         {% for sub_category in sub_categories %}
         <li class="list-group-item">
-          <i class="far fa-folder fa-fw"></i>
+          <i class="mdi mdi-folder-outline fa-fw"></i>
           <a href="{{ site.baseurl }}/categories/{{ sub_category | replace: ' ', '-' | downcase | url_encode }}/"
             class="ml-1 mr-2">{{ sub_category }}</a>
           {% assign posts_size = site.categories[sub_category] | size %}

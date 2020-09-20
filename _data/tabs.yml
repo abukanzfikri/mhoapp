@@ -7,24 +7,24 @@
 
 -
   name: Beranda
-  icon: "fas fa-home"
+  icon: "mdi mdi-home"
 -
   name: Kategori
-  icon: "fas fa-stream"
+  icon: "mdi mdi-view-dashboard"
   path: tabs
   url: categories
 -
   name: "Label"
-  icon: "fas fa-tags"
+  icon: "mdi mdi-tag-multiple"
   path: tabs
   url: tags
 -
   name: "Arsip"
   path: tabs
   url: archives
-  icon: "fas fa-archive"
+  icon: "mdi mdi-archive"
 -
   name: "Install"
-  icon: "fas fa-info"
+  icon: "mdi mdi-monitor-cellphone"
   path: tabs
   url: about

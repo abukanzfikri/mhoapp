@@ -6,17 +6,17 @@
 
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'mdi mdi-github'
 -
   type: twitter
-  icon: 'fab fa-twitter'
+  icon: 'mdi mdi-twitter'
 -
   type: email
-  icon: 'fas fa-envelope'
+  icon: 'mdi mdi-email'
   noblank: true            # open link in current tab
 -
   type: rss
-  icon: 'fas fa-rss'
+  icon: 'mdi mdi-rss'
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
