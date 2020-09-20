@@ -37,7 +37,7 @@ layout: compress
     }
   ],
   "features": ["Tampilan Sederhana","Mudah Diakses","Konten Lengkap"],
-  "categories": ["education","health","medical",]
+  "categories": ["education","health","medical"],
   "icons": [
     {
       "purpose":"maskable",
