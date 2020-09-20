@@ -43,6 +43,12 @@ layout: compress
   ],
   "icons": [
     {
+      "purpose":"maskable",
+      "src": "{{ icon_url }}/android-icon-maskable-512x512.202009.png",
+      "sizes": "512x512",
+      "type": "image/png"
+      }
+    {
       "src": "{{ icon_url }}/android-icon-36x36.202009.png",
       "sizes": "36x36",
       "type": "image/png",
@@ -83,12 +89,6 @@ layout: compress
       "src": "{{ icon_url }}/android-icon-maskable-192x192.202009.png",
       "sizes": "192x192",
       "type": "image/png"
-      },
-    {
-      "purpose":"maskable",
-      "src": "{{ icon_url }}/android-icon-maskable-512x512.202009.png",
-      "sizes": "512x512",
-      "type": "image/png"
       }],
     "start_url": "{{ '/index.html?source=pwa' | relative_url }}",
     "display": "standalone",
@@ -104,11 +104,6 @@ layout: compress
           {
             "src": "{{ icon_url }}/materi-icon-circle.202009.png",
             "sizes": "192x192"
-          },
-          {
-            "purpose":"maskable",
-            "src": "{{ icon_url }}/materi-icon-maskable.202009.png",
-            "sizes": "192x192"
           }
         ]
       },
@@ -121,11 +116,6 @@ layout: compress
           {
             "src": "{{ icon_url }}/info-icon-circle.202009.png",
             "sizes": "192x192"
-          },
-          {
-            "purpose":"maskable",
-            "src": "{{ icon_url }}/info-icon-maskable.202009.png",
-            "sizes": "192x192"
           }
         ]
       },
@@ -137,11 +127,6 @@ layout: compress
         "icons": [
           {
             "src": "{{ icon_url }}/produk-icon-circle.202009.png",
-            "sizes": "192x192"
-            },
-          {
-            "purpose":"maskable",
-            "src": "{{ icon_url }}/produk-icon-maskable.202009.png",
             "sizes": "192x192"
             }
           ]

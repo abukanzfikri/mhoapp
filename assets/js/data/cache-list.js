@@ -29,16 +29,7 @@ const include = [
 
   /*--- HTML ---*/
 
-  /* Tabs */
-  {% for tab in site.data.tabs %}
-    {% capture item %}
-      {%- unless tab.name == 'Home' -%}
-        /tabs/{{ tab.name | downcase }}
-      {%- endunless -%}
-      {{- "/" -}}
-    {% endcapture %}
-    '{{ item | relative_url }}',
-  {% endfor %}
+  /* Tabs */ '/mhoapp/', '/mhoapp/tabs/categories/', '/mhoapp/tabs/tags/', '/mhoapp/tabs/archives/', '/mhoapp/tabs/about/',
 
   /* The posts of first Home page and recent update list */
   {% assign post_list = "" | split: "" %}
