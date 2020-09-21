@@ -12,7 +12,7 @@ description: "Herb Oatmeal Energi"
 
 <div>Kandungan utama herb Oatmeal Energi adalah beras merah, kunyit putih, habbatussauda, <i>beepolen</i>, dan oats.</div>
 
-<h1>Khasiat Herb Oatmeal Energi<h1>
+<h1>Khasiat Herb Oatmeal Energi</h1>
 
 <div>Masing-masing herba yang terkandung dalam <a href="/posts/herb-oatmeal-energi-jce" title="Herb Oatmeal Energi">Herb Oatmeal Energi</a> mempunyai khasiat antara lain:</div>
 
