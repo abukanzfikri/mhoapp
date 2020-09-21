@@ -8,7 +8,7 @@ description: "Kapsul Albumin"
 
 <div>Albumin merupakan protein yang sangat penting bagi kesehatan. Albumin diproduksi oleh organ hati. Kurangnya kadar albumin dalam darah dapat mengakibatkan gangguan kesehatan. Sehingga diperlukan asupan albumin dari luar. Salah satu makanan yang memounyai kandungan albumin tinggi adalah ikan gabus.</div>
 
-<h1>Kandungan Kapsul Albumin<h1>
+<h1>Kandungan Kapsul Albumin</h1>
 
 <div><a href="/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.
 
