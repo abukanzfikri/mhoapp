@@ -11,13 +11,13 @@
   <a href="{{ site.url }}{url}">{title}</a>
   <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
     <div class="mr-sm-4"><i class="mdi mdi-folder-outline fa-fw"></i>{categories}</div>
-    <div><i class="fa fa-tag fa-fw"></i>{tags}</div>
+    <div><i class="mdi mdi-tag-multiple fa-fw"></i>{tags}</div>
   </div>
   <p>{snippet}</p>
 </div>
 {% endcapture %}
 
-{% capture not_found %}<p class="mt-5">Oops! No result founds.</p>{% endcapture %}
+{% capture not_found %}<p class="mt-5">Maaf! Tidak ada yang ditemukan. Gunakan kata kunci lainnya</p>{% endcapture %}
 
 <script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.7.3/dest/simple-jekyll-search.min.js"></script>
 
