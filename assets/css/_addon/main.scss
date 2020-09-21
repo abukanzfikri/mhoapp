@@ -313,7 +313,7 @@ $sidebar-display: "sidebar-display";
     font-size: .9rem;
     color: var(--search-icon-color);
   }
-  .fa-times-circle { /* button 'clean up' */
+  .mdi-close-circle { /* button 'clean up' */
     visibility: hidden;
   }
 }
@@ -1065,7 +1065,7 @@ div.post-content .table-wrapper {
     &.loaded ~ a {
       margin-right: 1rem;
     }
-    .fa-times-circle {
+    .mdi-close-circle {
       right: 5.2rem;
     }
   }
@@ -1304,7 +1304,7 @@ div.post-content .table-wrapper {
     }
   }
 
-  #search-wrapper .fa-times-circle {
+  #search-wrapper .mdi-close-circle {
     right: 2.6rem;
   }
 

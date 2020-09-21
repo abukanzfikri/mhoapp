@@ -79,7 +79,7 @@ layout: default
         <!-- categories -->
         {% if page.categories.size > 0 %}
         <div class="post-meta mb-3">
-          <i class="mdi mdi-folder-outline-open fa-fw mr-1"></i>
+          <i class="mdi mdi-folder-open-outline fa-fw mr-1"></i>
           {% for category in page.categories %}
             <a href='{{ site.baseurl }}/categories/{{ category | replace: ' ', '-' | downcase | url_encode }}/'>{{ category }}</a>
             {%- unless forloop.last -%}, {%- endunless -%}
@@ -90,7 +90,7 @@ layout: default
         <!-- tags -->
         {% if page.tags.size > 0 %}
         <div class="post-tags">
-          <i class="fa fa-tags fa-fw mr-1"></i>
+          <i class="mdi mdi-tag-multiple fa-fw mr-1"></i>
           {% for tag in page.tags %}
           <a href="{{ site.baseurl }}/tags/{{ tag | replace: ' ', '-' | downcase | url_encode }}/"
             class="post-tag no-text-decoration" >

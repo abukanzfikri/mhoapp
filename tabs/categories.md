@@ -41,7 +41,7 @@ type: categories
         id="{{ HEAD_PREFIX }}{{ group_index }}">
       <span>
       {% if sub_categories_size > 0 %}
-        <i class="mdi mdi-folder-outline-open fa-fw"></i>
+        <i class="mdi mdi-folder-open-outline fa-fw"></i>
       {% else %}
         <i class="mdi mdi-folder-outline fa-fw"></i>
       {% endif %}
