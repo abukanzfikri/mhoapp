@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Kategori
 type: categories
 # All the Categories of posts
 # v2.0
@@ -58,7 +58,7 @@ type: categories
             {% if sub_categories_size > 1 %}categories{% else %}category{% endif %},
           {% endif %}
             {{ top_posts_size }}
-            post{% if top_posts_size > 1 %}s{% endif %}
+            materi
         </span>
       </span>
 

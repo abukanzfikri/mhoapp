@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tentang Kami
 
 # The About page
 # v2.0
