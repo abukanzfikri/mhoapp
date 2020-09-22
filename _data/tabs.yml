@@ -7,22 +7,22 @@
 
 -
   name: Beranda
-  icon: "mdi mdi-home"
+  icon: "mdi mdi-home-outline"
 -
   name: Kategori
-  icon: "mdi mdi-view-dashboard"
+  icon: "mdi mdi-view-dashboard-outline"
   path: tabs
   url: categories
 -
   name: "Label"
-  icon: "mdi mdi-tag-multiple"
+  icon: "mdi mdi-tag-multiple-outline"
   path: tabs
   url: tags
 -
   name: "Arsip"
   path: tabs
   url: archives
-  icon: "mdi mdi-archive"
+  icon: "mdi mdi-archive-outline"
 -
   name: "Install"
   icon: "mdi mdi-monitor-cellphone"
