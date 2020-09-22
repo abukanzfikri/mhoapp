@@ -111,13 +111,13 @@ $sidebar-display: "sidebar-display";
 
   .nav-link {
     border-radius: 0;
-    font-size: .8rem;
-    font-weight: 700;
+    font-size: .9rem;
+    font-weight: 400;
     letter-spacing: 1px;
   }
   .nav-link i {
-    font-size: 1.2rem;
-    margin: 0 .7rem !important;
+    font-size: 1.3rem;
+    margin: 0 .7rem 0 0 !important;
   }
   .nav-item {
     height: $tab-height;
@@ -129,6 +129,7 @@ $sidebar-display: "sidebar-display";
     &.active {
       .nav-link {
         color: var(--nav-link-active);
+        font-weight: 700;
       }
     }
   }
