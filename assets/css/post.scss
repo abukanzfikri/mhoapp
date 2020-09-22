@@ -94,10 +94,6 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
   }
 
   a, span {
-    &::before {
-      color: var(--text-muted-color);
-      font-size: .65rem;
-    }
     &:first-child {
       border-top-right-radius: 0;
       border-bottom-right-radius: 0;

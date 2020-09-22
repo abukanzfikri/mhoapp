@@ -109,16 +109,15 @@ $sidebar-display: "sidebar-display";
     margin: .5rem 1.5rem 2rem 1.5rem;
   }
 
-  .sidebar-bottom {
-    .icon-border + a { // the icon behide mode-toggle
-      margin-left: .1rem;
-    }
-  }
   .nav-link {
     border-radius: 0;
-    font-size: .95rem;
-    font-weight: 600;
+    font-size: .8rem;
+    font-weight: 700;
     letter-spacing: 1px;
+  }
+  .nav-link i {
+    font-size: 1.2rem;
+    margin: 0 .7rem !important;
   }
   .nav-item {
     height: $tab-height;
@@ -202,14 +201,6 @@ $sidebar-display: "sidebar-display";
         position: relative;
         bottom: 1px;
       }
-    }
-
-    .icon-border {
-      background: #525354;
-      width: 3px;
-      height: 3px;
-      border-radius: 50%;
-      margin-top: .75rem;
     }
   }
 } // #sidebar
@@ -547,8 +538,8 @@ footer {
     padding: .3rem .5rem;
     margin: 0 .35rem .5rem 0;
     &:hover {
-      background-color: #2a408e;
-      border-color: #2a408e;
+      background-color: #69F0AE;
+      border-color: #69F0AE;
       color: #202124;
       transition: none;
     }
@@ -1173,9 +1164,6 @@ div.post-content .table-wrapper {
     width: $sidebar-width-small;
     .sidebar-bottom {
       @include ml-mr(1.5rem);
-      .icon-border {
-        @include ml-mr(.25rem);
-      }
     }
   }
 
@@ -1448,14 +1436,6 @@ div.post-content .table-wrapper {
           @include icon-round(2rem);
           padding-top: .44rem;
           bottom: 0;
-        }
-      }
-
-      .icon-border {
-        @include ml-mr(.2rem);
-        margin-top: .85rem;
-        +a {
-          margin-left: 0;
         }
       }
     } // .sidebar-bottom

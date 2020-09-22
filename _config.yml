@@ -119,7 +119,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: Beranda
           url: /
   -
     scope:
@@ -134,10 +134,10 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: Beranda
           url: /
         -
-          label: Tags
+          label: Label
           url: /tabs/tags/
   -
     scope:
@@ -147,10 +147,10 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: Beranda
           url: /
         -
-          label: Categories
+          label: Kategori
           url: /tabs/categories/
   -
     scope:
@@ -160,7 +160,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Beranda
           url: /
 
 

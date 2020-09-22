@@ -46,7 +46,7 @@
         or item.name == "Home" and page.layout == "home" %}active{% endif %}">
       <a href="{{ ref }}" class="nav-link d-flex w-100">
         <i class="fa-fw {{ item.icon }} ml-xl-3 mr-xl-3"></i>
-        <span>{{ item.name | upcase }}</span>
+        <span>{{ item.name | propcase }}</span>
       </a>
     </li> <!-- .nav-item -->
   {% endfor %}
@@ -61,7 +61,6 @@
   <span id="mode-toggle-wrapper">
     {% include mode-toggle.html %}
   </span>
-  <span class="icon-border"></span>
   {% endif %}
 
   {% for entry in site.data.contact %}
@@ -81,7 +80,7 @@
     {% endcapture %}
 
     {% if url != '' %}
-    <a href="{{ url }}" {% unless entry.noblank %}target="_blank"{% endunless %}>
+    <a rel="noreferrer" href="{{ url }}" {% unless entry.noblank %}target="_blank"{% endunless %}>
       <i class="{{ entry.icon }}"></i>
     </a>
     {% endif %}
