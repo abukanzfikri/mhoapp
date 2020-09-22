@@ -9,3 +9,8 @@
   icon: "mdi mdi-monitor-cellphone"
   path: tabs
   url: about
+
+- name: "MHO TV"
+  icon: "mdi mdi-youtube-tv"
+  path: tabs
+  url: mhotv

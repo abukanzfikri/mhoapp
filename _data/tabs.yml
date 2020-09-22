@@ -4,10 +4,6 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
-
--
-  name: Beranda
-  icon: "mdi mdi-home-outline"
 -
   name: Kategori
   icon: "mdi mdi-view-dashboard-outline"
