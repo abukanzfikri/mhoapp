@@ -26,11 +26,11 @@ title: Tentang Kami
 
 <div>Untuk semakin memudahkan masyarakat mendapatkan keilmuan, kini hadir MHO TV yang dapat disaksikan melalui saluran parabola.</div>
 
-<h1>Arsip MHO</h1>
+<h1 id='arsip-mho'>Arsip MHO</h1>
 
 <div>Arsip MHO merupakan website dan aplikasi yang dikembangkan secara pribadi dan tidak berafiliasi langsung dengan CV. herbAttaubah.</div>
 
-<div>Isi yang ada di dalam website dan aplikasi ini bersumber pada materi-materi MHO yang disampaikan oleh Ust. Yudha Setiawan, baik melalui grup WhatsApp, kanal YouTube, maupun di akun Facebook.</div>
+<div>Isi di dalam website dan aplikasi ini bersumber pada materi-materi MHO yang disampaikan oleh Ust. Yudha Setiawan, baik melalui grup WhatsApp, kanal YouTube, MHO TV, maupun di akun pribadi Facebook beliau.</div>
 
 <div>Tujuan adanya website dan aplikasi Arsip MHO, untuk memudahkan mengakses materi-materi MHO yang disampaikan dalam berbagai sumber tersebut melalui satu website atau aplikasi.</div>
 
