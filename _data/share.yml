@@ -24,7 +24,7 @@ platforms:
   -
     type: WhatsApp
     icon: "mdi mdi-whatsapp"
-    link: "https://wa.me/?text=URL"
+    link: "https://wa.me/?text=TITLE%0D%0AURL"
 
   # Uncomment below if you need to.
   # -
