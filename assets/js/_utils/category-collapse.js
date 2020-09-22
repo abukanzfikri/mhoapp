@@ -14,7 +14,7 @@ $(function() {
   $(".collapse").on("hide.bs.collapse", function() { /* Bootstrap collapse events. */
     var parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
     if (parentId) {
-      $("#" + parentId + " .far.fa-folder-open").attr("class", "mdi mdi-folder-outline fa-fw");
+      $("#" + parentId + " .far.fa-folder-open").attr("class", "mdi mdi-folder-outline");
       $("#" + parentId + " i.fas").addClass("rotate");
       $("#" + parentId).removeClass("hide-border-bottom");
     }
@@ -24,7 +24,7 @@ $(function() {
   $(".collapse").on("show.bs.collapse", function() {
     var parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
     if (parentId) {
-      $("#" + parentId + " .far.fa-folder").attr("class", "mdi mdi-folder-open-outline fa-fw");
+      $("#" + parentId + " .far.fa-folder").attr("class", "mdi mdi-folder-open-outline");
       $("#" + parentId + " i.fas").removeClass("rotate");
       $("#" + parentId).addClass("hide-border-bottom");
     }
