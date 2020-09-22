@@ -279,6 +279,7 @@ $sidebar-display: "sidebar-display";
 
 #topbar i { // icons
   color: #999;
+  font-size: 1.3rem;
 }
 
 #breadcrumb {
@@ -312,7 +313,7 @@ $sidebar-display: "sidebar-display";
   padding: 0 .5rem;
   i {
     z-index: 2;
-    font-size: .9rem;
+    font-size: 1.3rem;
     color: var(--search-icon-color);
   }
   .mdi-close-circle { /* button 'clean up' */
