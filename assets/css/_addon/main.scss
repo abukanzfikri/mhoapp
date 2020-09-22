@@ -134,9 +134,10 @@ $sidebar-display: "sidebar-display";
     }
   }
   ul {
-    height: $tab-height * $tab-count;
     display: -webkit-box;
     display: -ms-flexbox;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
 
     >li:last-child {
       >a {
@@ -1030,6 +1031,7 @@ div.post-content .table-wrapper {
 
   #topbar-wrapper {
     left: 0;
+    background-color: #69F0AE;
   }
 
   .topbar-up {
@@ -1120,7 +1122,7 @@ div.post-content .table-wrapper {
 
   /* button 'back-to-Top' position */
   #back-to-top {
-    bottom: 1.6rem;
+    bottom: 5.5rem;
     right: 1.2rem;
   }
 
@@ -1234,7 +1236,7 @@ div.post-content .table-wrapper {
   }
 
   #back-to-top {
-    bottom: 1.6rem;
+    bottom: 6.5rem;
     right: 4.3rem;
   }
 

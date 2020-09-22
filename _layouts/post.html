@@ -18,9 +18,9 @@ layout: default
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
         <div>
-          Posted
+          Diposting
           {% include timeago.html date=page.date tooltip=true %}
-          by
+          oleh
           <span class="author">
           {% if page.author %}
             {{ page.author }}
@@ -94,7 +94,7 @@ layout: default
 
         <!-- tags -->
         {% if page.tags.size > 0 %}
-        <div class="post-tags">
+        <div class="post-tags mb-3">
           <i class="mdi mdi-tag-multiple mr-1"></i>
           {% for tag in page.tags %}
           <a href="{{ site.baseurl }}/tags/{{ tag | replace: ' ', '-' | downcase | url_encode }}/"
