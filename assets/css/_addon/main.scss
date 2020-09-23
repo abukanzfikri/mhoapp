@@ -800,7 +800,7 @@ div.post-content .table-wrapper {
       @extend %link-hover;
     }
   }
-  p {
+  p,.paraph {
     font-size: 1.08rem;
     > img {
       margin-top: .5rem;
