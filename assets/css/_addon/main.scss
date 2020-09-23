@@ -343,7 +343,7 @@ $sidebar-display: "sidebar-display";
     margin: 0 1rem 1rem 0;
     &::before {
       content: "\F0423";
-      font-family: 'Material Design Icons'
+      font-family: 'Material Design Icons';
       color: var(--text-muted-color);
       padding-right: .2rem;
     }
@@ -802,7 +802,7 @@ div.post-content .table-wrapper {
     }
   }
   p,.paraph {
-    padding: .8rem 0;
+    padding: 1rem 0 0;
     > img {
       margin-top: .5rem;
       margin-bottom: 1.5rem;
