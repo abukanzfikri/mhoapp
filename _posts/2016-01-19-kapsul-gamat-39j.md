@@ -1,7 +1,7 @@
 ---
 title: Kapsul Gamat Attaubah
 categories: [Produk]
-tags: [Madu,Best Seller]
+tags: [Kapsul]
 image: https://4.bp.blogspot.com/-9JR4fm2YAJ4/V51Wlpp7U2I/AAAAAAAAAF0/3vnylpDG5po3B0irdRzsFisilYsf5ry_ACPcB/s1600/gamat-emas.png
 description: "Kapsul ekstrak gamat emas"
 ---

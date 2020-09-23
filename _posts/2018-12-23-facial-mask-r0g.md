@@ -6,15 +6,15 @@ image: https://1.bp.blogspot.com/-XzCB-vkoh1I/XB9j6aSr98I/AAAAAAAABcg/JeWtFDWHUY
 description: "Facial Mask"
 ---
 
-<div>Selain memproduksi <a href="/tags/estetik" title="Label Estetik">produk kecantikan</a> berupa sabun&#8212;<a href="/posts/sabun-mandi-dq0" title="Sabun Mandi Attaubah">Sabun Mandi</a>, <a href="/posts/sabun-hawa-ycq" title="Sabun Hawa ttaubah">Sabun Hawa</a>, dan <a href="/posts/sabun-wajah-bbk" title="Sabun Wajah Attaubah">Sabun Wajah</a>&#8212;CV. herbAttaubah juga mengeluarkan <a href="/tags/estetik" title="Label Estetik">produk estetika</a> lainnya, yaitu <a href="/posts/facial-mask-r0g" title="Facial Mask Attaubah">Facial Mask Attaubah</a>. <a href="/categories/produk">Produk</a> ini menjadi satu-kesatuan dengan sabun-sabun tersebut untuk mendapatkan khasiat yang maksimal dan menyeluruh.</div>
+<div class="paraph">Selain memproduksi <a href="/tags/estetik" title="Label Estetik">produk kecantikan</a> berupa sabun&#8212;<a href="/posts/sabun-mandi-dq0" title="Sabun Mandi Attaubah">Sabun Mandi</a>, <a href="/posts/sabun-hawa-ycq" title="Sabun Hawa ttaubah">Sabun Hawa</a>, dan <a href="/posts/sabun-wajah-bbk" title="Sabun Wajah Attaubah">Sabun Wajah</a>&#8212;CV. herbAttaubah juga mengeluarkan <a href="/tags/estetik" title="Label Estetik">produk estetika</a> lainnya, yaitu <a href="/posts/facial-mask-r0g" title="Facial Mask Attaubah">Facial Mask Attaubah</a>. <a href="/categories/produk">Produk</a> ini menjadi satu-kesatuan dengan sabun-sabun tersebut untuk mendapatkan khasiat yang maksimal dan menyeluruh.</div>
 
 <h1>Kandungan Facial Mask</h1>
 
-<div><a href="/posts/facial-mask-r0g" title="Facial Mask Attaubah">Facial Mask Attaubah</a> terdiri dari madu khusus yang diramu dengan berbagai racikan herbal asli Indonesia yang sudah terpercaya.</div>
+<div class="paraph"><a href="/posts/facial-mask-r0g" title="Facial Mask Attaubah">Facial Mask Attaubah</a> terdiri dari madu khusus yang diramu dengan berbagai racikan herbal asli Indonesia yang sudah terpercaya.</div>
 
 <h1>Manfaat Facial Mask</h1>
 
-<div>Sinergi herbal-herbal dalam produk kecantikan ini diramu sedemikan rupa sehingga berkhasiat untuk:</div>
+<div class="paraph">Sinergi herbal-herbal dalam produk kecantikan ini diramu sedemikan rupa sehingga berkhasiat untuk:</div>
 
 <ol><li>Menjaga kekencangan dan kelembaban kulit</li>
         <li>Memberikan nutrisi untuk kulit.</li>

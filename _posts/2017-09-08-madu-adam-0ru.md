@@ -1,20 +1,20 @@
 ---
 title: Madu Adam
 categories: [Produk]
-tags: [Madu,Pria,Kejantanan]
+tags: [Madu,Pria,Kejantanan,Dewasa]
 image: https://3.bp.blogspot.com/--bBKWBpQbvc/WbHrINJ8n4I/AAAAAAAAAeU/Do6AZcqjKRAXV0OPzKZGQbIoEIFDIY3VgCKgBGAs/s1600/madu-adam.png
 description: "Madu Khusus pria dewasa"
 ---
 
-<div>Kejantanan menjadi faktor penting dalam keharmonisan rumah tangga. <a href="/posts/madu-adam-0ru" title="Madu Adam Attaubah">Madu Adam</a> merupakan herbal yang diproduksi khusus untuk menjaga vitalitas dan meningkatkan kejantanan pria.</div>
+<div class="paraph">Kejantanan menjadi faktor penting dalam keharmonisan rumah tangga. <a href="/posts/madu-adam-0ru" title="Madu Adam Attaubah">Madu Adam</a> merupakan herbal yang diproduksi khusus untuk menjaga vitalitas dan meningkatkan kejantanan pria.</div>
 
 <h1>Kandungan Madu Adam</h1>
 
-<div>Kandungan <a href="/posts/madu-adam-0ru" title="Madu Adam Attaubah">Madu Adam</a>: Madu Pilihan, Purwoceng, Pasakbumi, Kemangi, Pegagan.</div>
+<div class="paraph">Kandungan <a href="/posts/madu-adam-0ru" title="Madu Adam Attaubah">Madu Adam</a>: Madu Pilihan, Purwoceng, Pasakbumi, Kemangi, Pegagan.</div>
 
 <h1>Khasiat Madu Adam</h1>
 
-<div>Khasiat Madu Adam secara keseluruhan, antara lain:</div>
+<div class="paraph">Khasiat Madu Adam secara keseluruhan, antara lain:</div>
 
 <ol><li>Menenangkan pikiran yang tegang, gelisah, dan rasa khawatir.</li>
 <li>Flek, Asthma</li>

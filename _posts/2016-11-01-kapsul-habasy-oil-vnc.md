@@ -6,15 +6,15 @@ image: https://4.bp.blogspot.com/-NyjaPobeVpA/WVd5w6ZBvdI/AAAAAAAABpI/mNYFEB_GKU
 description: "Kapsul Habasy Oil"
 ---
 
-<div>Habbatussauda merupakan herbal yang lazim dikonsumsi karena khasiatnya yang sudah tidak diragukan lagi. Oleh karena itu, kami menghadirkan minyak habbatussauda dengan kualitas yang lebih baik dibandingkan dengan produk-produk lain.</div>
+<div class="paraph">Habbatussauda merupakan herbal yang lazim dikonsumsi karena khasiatnya yang sudah tidak diragukan lagi. Oleh karena itu, kami menghadirkan minyak habbatussauda dengan kualitas yang lebih baik dibandingkan dengan produk-produk lain.</div>
 
 <h1>Kandungan Habasy Oil</h1>
 
-<div><a href="/posts/kapsul-habasy-oil-vnc" title="Attaubah Habasy Oil">Attaubah Habasy Oil</a> menggunakan minyak habbat kualitas terbaik sebagai bahan bakunya.</div>
+<div class="paraph"><a href="/posts/kapsul-habasy-oil-vnc" title="Attaubah Habasy Oil">Attaubah Habasy Oil</a> menggunakan minyak habbat kualitas terbaik sebagai bahan bakunya.</div>
 
 <h1>Manfaat Habasy Oil</h1>
 
-<div>Beberapa manfaat habat yang dapat kami sebutkan, diantaranya:</div>
+<div class="paraph">Beberapa manfaat habat yang dapat kami sebutkan, diantaranya:</div>
 
 <ol>
     <li>Meningkatkan daya tahan tubuh.</li>

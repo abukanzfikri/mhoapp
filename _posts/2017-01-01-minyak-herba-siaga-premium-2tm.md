@@ -6,7 +6,7 @@ image: https://3.bp.blogspot.com/-8Cz1GvKhl8I/XUJQh1j3STI/AAAAAAAAB1g/X041_kErbk
 description: "Minyak Herba Siaga Premium Attaubah"
 ---
 
-<div>Minyak Herba Siaga Premium merupakan herba minyak yang kami produksi dengan khasiat yang lebih banyak dibandingkan dengan produk kami sebelumnya dan sebagai pengganti produk terssebut yaitu Minyak Bekam. Minyak Herba Siaga Premium mempunyai keunggulan dibandingkan dengan produk-produk sejenis yang beredar di pasaran, diantaranya:</div>
+<div class="paraph">Minyak Herba Siaga Premium merupakan herba minyak yang kami produksi dengan khasiat yang lebih banyak dibandingkan dengan produk kami sebelumnya dan sebagai pengganti produk terssebut yaitu Minyak Bekam. Minyak Herba Siaga Premium mempunyai keunggulan dibandingkan dengan produk-produk sejenis yang beredar di pasaran, diantaranya:</div>
 
 <ol>
     <li>Lebih jernih karena diproduksi dengan tidak dipanaskan langsung memakai api.</li>
@@ -16,11 +16,11 @@ description: "Minyak Herba Siaga Premium Attaubah"
 
 <h1>Kandungan Minyak Herba Siaga Premium</h1>
 
-<div>Minyak Herba Siaga Premium merupakan sinergi dari beberapa herbal, diantaranya: minyak kelapa, sambiloto, lada hitam, dan brotowali.</div>
+<div class="paraph">Minyak Herba Siaga Premium merupakan sinergi dari beberapa herbal, diantaranya: minyak kelapa, sambiloto, lada hitam, dan brotowali.</div>
 
 <h1>Manfaat Minyak Herba Siaga Premium</h1>
 
-<div>Beberapa manfaat dari Minyak Herba Siaga antara lain:</div>
+<div class="paraph">Beberapa manfaat dari Minyak Herba Siaga antara lain:</div>
 
 <ol>
     <li>Minyak pelengkap untuk terapi, seperti: urut, bekam, dll.</li>

@@ -6,15 +6,15 @@ image: https://3.bp.blogspot.com/-QzdjpT5e4jg/W5dxUUk9DxI/AAAAAAAABC8/47ywhYiprC
 description: "Sabun Hawa Attaubah"
 ---
 
-<div>Sabun mandi merupakan salah satu produk yang menjadi kebutuhan setiap orang. Oleh karena itu, Attaubah mencoba memenuhi keebutuhan ini dengan produk yang halal, aman, dan berkhasiat.</div>
+<div class="paraph">Sabun mandi merupakan salah satu produk yang menjadi kebutuhan setiap orang. Oleh karena itu, Attaubah mencoba memenuhi keebutuhan ini dengan produk yang halal, aman, dan berkhasiat.</div>
 
 <h1>Kandungan Sabun Mandi</h1>
 
-<div><a href="/posts/sabun-mandi-dq0" title="Sabun Mandi Attaubah">Sabun Mandi Attaubah</a> merupakan sabun herbal yang kandungannya berupa madu, minyak sawit, zaitun, tepung jagung (zea mays). Untuk varian ditambahkan herbal-herbal lain seperti: pegagan, bidara, teh hijau.</div>
+<div class="paraph"><a href="/posts/sabun-mandi-dq0" title="Sabun Mandi Attaubah">Sabun Mandi Attaubah</a> merupakan sabun herbal yang kandungannya berupa madu, minyak sawit, zaitun, tepung jagung (zea mays). Untuk varian ditambahkan herbal-herbal lain seperti: pegagan, bidara, teh hijau.</div>
 
 <h1>Manfaat Sabun Mandi</h1>
 
-<div>Herbal-herbal yang ada di dalam Sabun Mandi Attaubah mempunyai khasiat antara lain:</div>
+<div class="paraph">Herbal-herbal yang ada di dalam Sabun Mandi Attaubah mempunyai khasiat antara lain:</div>
 
 <ul>
     <li>Madu: madu sudah terbukti berkhasiat untuk kecantikan seperti: pelembab alami kulit, menghilangkan bekas luka, mengatasi jerawat, membersihkan pori-pori & bakteri.</li>

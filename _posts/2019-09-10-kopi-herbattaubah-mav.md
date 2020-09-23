@@ -1,14 +1,14 @@
 ---
 title: Kopi Herbattaubah
 categories: [Produk]
-tags: [Kopi]
+tags: [Kopi,Serbuk]
 image: https://3.bp.blogspot.com/-76mnmKeaZ64/XXcegY4_c0I/AAAAAAAADeQ/JFoMpVnCEqEKxyGduy025JaFct21qFHPwCKgBGAs/s1600/201909-produk-kopi-herbattaubah-blog.png
 description: "Kopi Herbattaubah"
 ---
 
-<div><a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> merupakan produk terbaru dari CV. herbAttaubah. Setelah sebelumnya beredar juga produk kopi yang lain seperti: <b>Kopi Sehat Sinergi</b>. Seperti apa <a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini? Apakah sama dengan produk sebelumnya?</div>
+<div class="paraph"><a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> merupakan produk terbaru dari CV. herbAttaubah. Setelah sebelumnya beredar juga produk kopi yang lain seperti: <b>Kopi Sehat Sinergi</b>. Seperti apa <a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini? Apakah sama dengan produk sebelumnya?</div>
 
-<div>Ada beberapa materi <a href="/categories/materi" title="Materi MHO">Materi MHO</a> yang khusus membahas khasiat dan cara kerja <a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini, diantaranya:</div>
+<div class="paraph">Ada beberapa materi <a href="/categories/materi" title="Materi MHO">Materi MHO</a> yang khusus membahas khasiat dan cara kerja <a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini, diantaranya:</div>
 
 <ol>
 <li><a href="/posts/kopi-herbattaubah-untuk-tubuh-ideal-lqf" title="Kopi herbAttaubah untuk Badan Ideal">Kopi herbAttaubah untuk Tubuh Ideal</a>.</li>
@@ -18,13 +18,13 @@ description: "Kopi Herbattaubah"
 
 <h1>Kandungan Kopi Herbattaubah</h1>
 
-<div><a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> (Premix Coffee herbAttaubah) merupakan sinergi dari herbal-herbal yang sudah terbukti khasiatnya dengan kualitas terbaik. Diantaranya: Tongkat Ali/Pasakbumi, Akar Mata Pelanduk, Akar Teja Lawang, Akar Tebu Gajah, Akar Mengkudu Hutan, Halban, Larak Hutan.</div>
+<div class="paraph"><a href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> (Premix Coffee herbAttaubah) merupakan sinergi dari herbal-herbal yang sudah terbukti khasiatnya dengan kualitas terbaik. Diantaranya: Tongkat Ali/Pasakbumi, Akar Mata Pelanduk, Akar Teja Lawang, Akar Tebu Gajah, Akar Mengkudu Hutan, Halban, Larak Hutan.</div>
 
-<div>Salah satu perbedaan dengan produk kopi yang ada yaitu Kopi herbAttaubah menggunakan bahan berbentuk ekstrak, bukan simplisia. Apa keunggulannya? Ekstrak akan menjadikan herbal-herbal tersebut mudah terserap dan cepat bekerja. Sehingga tidak khawatir menyebabkan gangguan asam lambung dan semisalnya. Produk kopi sejenis yang berbahan simplisia dapat menyebabkan kaki dingin, perut kembung dan nyeri dada.</div>
+<div class="paraph">Salah satu perbedaan dengan produk kopi yang ada yaitu Kopi herbAttaubah menggunakan bahan berbentuk ekstrak, bukan simplisia. Apa keunggulannya? Ekstrak akan menjadikan herbal-herbal tersebut mudah terserap dan cepat bekerja. Sehingga tidak khawatir menyebabkan gangguan asam lambung dan semisalnya. Produk kopi sejenis yang berbahan simplisia dapat menyebabkan kaki dingin, perut kembung dan nyeri dada.</div>
 
 <h1>Manfaat Kopi Herbattaubah</h1>
 
-<div>Masing-masing herba yang terkandung dalam Madu Kuning Sehat Lambung Attaubah mempunyai khasiat antara lain:</div>
+<div class="paraph">Masing-masing herba yang terkandung dalam Madu Kuning Sehat Lambung Attaubah mempunyai khasiat antara lain:</div>
 
 <ol><li><b>Pasak Bumi</b>; Mengandung bahan aktif <i>B-Sitosterol</i> yang berfungsi untuk merangsang pengeluaran hormon <i>Endrogen N-Nonacosane</i> di mana hormon ini merangsang syaraf <i>NEOCLOVENE</i> yang bisa meredakan keletihan dan membangkitkan semangat. Selain itu juga meredakan demam, meredakan sakit pada tulang dan sendi, batuk kering dan kencing manis.</li>
     <li><b>Akar Mata Pelanduk</b>; Untuk mengobati otot dan ligamen yang robek, asthma, diare, sakit tenggorokan, batuk-batuk, keracunan, pembengkakan testis, dan demam.</li>
@@ -36,4 +36,4 @@ description: "Kopi Herbattaubah"
 
 <h1>Cara Konsumsi Kopi Herbattaubah</h1>
 
-<div>Seduh 1 sachet Kopi herbAttaubah dengan air panas</div>
+<div class="paraph">Seduh 1 sachet Kopi herbAttaubah dengan air panas</div>

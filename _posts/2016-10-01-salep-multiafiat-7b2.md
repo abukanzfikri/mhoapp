@@ -6,15 +6,15 @@ image: https://2.bp.blogspot.com/-PnYBC-lvTNs/XgB3VlJOiCI/AAAAAAAAEdo/CeEgB3ufGZ
 description: "Salep Multiafiat Attaubah"
 ---
 
-<div>Belum banyak beredar di pasaran salep-salep yang diproduksi dari bahan-bahan herbal alami agar aman dipakai oleh semua anggota keluarga. Salah satu diantaranya adalah Salep Multiafiat Attaubah. Produk salep ini aman dipakai oleh bayi, anak-anak, maupun dewasa.</div>
+<div class="paraph">Belum banyak beredar di pasaran salep-salep yang diproduksi dari bahan-bahan herbal alami agar aman dipakai oleh semua anggota keluarga. Salah satu diantaranya adalah Salep Multiafiat Attaubah. Produk salep ini aman dipakai oleh bayi, anak-anak, maupun dewasa.</div>
 
 <h1>Kandungan Salep Multiafiat</h1>
 
-<div>Kandungan <a href="/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a> antara lain: vaseline, piper betle, syzgium aromaticum oil, vco, minyak zaitun.</div>
+<div class="paraph">Kandungan <a href="/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a> antara lain: vaseline, piper betle, syzgium aromaticum oil, vco, minyak zaitun.</div>
 
 <h1>Manfaat Salep Multiafiat</h1>
 
-<div>Khasiat <a href="/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a>, diantaranya:</div>
+<div class="paraph">Khasiat <a href="/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a>, diantaranya:</div>
 
 <ol>
     <li>Mengobati penyakit-penyakit kulit dan menghilangkan bekas-bekasnya.</li>
@@ -27,4 +27,4 @@ description: "Salep Multiafiat Attaubah"
 
 <h1>Cara Pemakaian Salep Multiafiat</h1>
 
-<div>Oleskan secara merata pada bagian-bagian tubuh yang diperlukan. Untuk sakit gigi dan gusi bengkak, cukup oleskan di bagian luar.</div>
+<div class="paraph">Oleskan secara merata pada bagian-bagian tubuh yang diperlukan. Untuk sakit gigi dan gusi bengkak, cukup oleskan di bagian luar.</div>

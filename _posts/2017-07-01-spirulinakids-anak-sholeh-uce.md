@@ -1,20 +1,20 @@
 ---
 title: Spirulinakids Anak Sholeh
 categories: [Produk]
-tags: [Madu,Anak,Spirulina,Best Seller]
+tags: [Madu,Anak,Best Seller]
 image: https://3.bp.blogspot.com/-C9uix1NOX5M/Xq-Y4U8m1pI/AAAAAAAAE8s/NfnvG9DL4sIUbRIfspWVVzSjmZKTv68zACPcBGAsYHg/s1600/202004-produk-spirulinakids-thumb-opt.png
 description: "Spirulinakids Anak Sholeh"
 ---
 
-<div>Orang tua mana yang tidak mendambakan anak-anak sholeh yang senantiasa cerdas, sehat dan ceria? Biidznillah, dengan mengkonsumsi <b>Attaubah Spiruliankids Anak Sholeh</b> akan membantu tumbuh kembang anak menjadi optimal. Kandungan-kandungan dalam herbal ini disinergikan dengan komposisi yang tepat dengan mempertimbangkan segi khasiat dan juga rasa. Sehingga anak-anak sangat menyukai herbal <b>Attaubah Spiruliankids Anak Sholeh</b>.
+<div class="paraph">Orang tua mana yang tidak mendambakan anak-anak sholeh yang senantiasa cerdas, sehat dan ceria? Biidznillah, dengan mengkonsumsi <b>Attaubah Spiruliankids Anak Sholeh</b> akan membantu tumbuh kembang anak menjadi optimal. Kandungan-kandungan dalam herbal ini disinergikan dengan komposisi yang tepat dengan mempertimbangkan segi khasiat dan juga rasa. Sehingga anak-anak sangat menyukai herbal <b>Attaubah Spiruliankids Anak Sholeh</b>.</div>
 
 <h1>Kandungan Spirulinakids Anak Sholeh</h1>
 
-<div>Kandungan di dalam Attaubah Spiruliankids Anak Sholeh antara lain: Madu Murni Pilihan, Spirulina, Propolis, Pegagan, Meniran, Temulawak, Habbatussauda, Minyak Zaitun, dll.</div>
+<div class="paraph">Kandungan di dalam Attaubah Spiruliankids Anak Sholeh antara lain: Madu Murni Pilihan, Spirulina, Propolis, Pegagan, Meniran, Temulawak, Habbatussauda, Minyak Zaitun, dll.</div>
 
 <h1>Khasiat Spirulinakids Anak Sholeh</h1>
 
-<div>Manfaat Attaubah Spirulinakids Anak Sholeh, diantaranya:</div>
+<div class="paraph">Manfaat Attaubah Spirulinakids Anak Sholeh, diantaranya:</div>
 
 <ol><li>Batuk, Pilek, TBC,</li>
 <li>Flek, Asthma</li>

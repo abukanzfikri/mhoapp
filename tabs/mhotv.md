@@ -10,15 +10,15 @@ title: MHO TV
 
 <h1>MHO TV</h1>
 
-<div>Melihat kebutuhan masyarakat akan ilmu kesehatan dan pengobatan Thibbunnabawi, dalam perkembangannya MHO tidak hanya hadir melalui grup WhatsApp. Selain ikut bergabung dalam grup MHO, materi-materi MHO dapat diakses melalui video-video kesehatan dalam kanal YouTube MHO TV dan Attaubah Center.</div>
+<div class="paraph">Melihat kebutuhan masyarakat akan ilmu kesehatan dan pengobatan Thibbunnabawi, dalam perkembangannya MHO tidak hanya hadir melalui grup WhatsApp. Selain ikut bergabung dalam grup MHO, materi-materi MHO dapat diakses melalui video-video kesehatan dalam kanal YouTube MHO TV dan Attaubah Center.</div>
 
-<div>Untuk semakin memudahkan masyarakat mendapatkan keilmuan, kini hadir MHO TV yang dapat disaksikan melalui saluran parabola.</div>
+<div class="paraph">Untuk semakin memudahkan masyarakat mendapatkan keilmuan, kini hadir MHO TV yang dapat disaksikan melalui saluran parabola.</div>
 
 <table>
 <tbody>
   <tr>
-    <th>Satelit</th>
-    <th colspan="3">Telkom 4</th>
+    <td>Satelit</th>
+    <td colspan="3">Telkom 4</th>
   </tr>
   <tr>
     <td>Frekuensi</td>

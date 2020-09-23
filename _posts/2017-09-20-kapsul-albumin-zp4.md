@@ -1,20 +1,20 @@
 ---
 title: Kapsul Albumin
 categories: [Produk]
-tags: [Albumin]
+tags: [Kapsul]
 image: https://2.bp.blogspot.com/-3Lhe8_sOnW8/Wn6Z0ZOYJPI/AAAAAAAAAzs/d4t3Lwxk3rAvkVrD0DfJ_HeBXCF5La6egCKgBGAs/s1600/MHO1802109-topbumin.png
 description: "Kapsul Albumin"
 ---
 
-<div>Albumin merupakan protein yang sangat penting bagi kesehatan. Albumin diproduksi oleh organ hati. Kurangnya kadar albumin dalam darah dapat mengakibatkan gangguan kesehatan. Sehingga diperlukan asupan albumin dari luar. Salah satu makanan yang memounyai kandungan albumin tinggi adalah ikan gabus.</div>
+<div class="paraph">Albumin merupakan protein yang sangat penting bagi kesehatan. Albumin diproduksi oleh organ hati. Kurangnya kadar albumin dalam darah dapat mengakibatkan gangguan kesehatan. Sehingga diperlukan asupan albumin dari luar. Salah satu makanan yang memounyai kandungan albumin tinggi adalah ikan gabus.</div>
 
 <h1>Kandungan Kapsul Albumin</h1>
 
-<div><a href="/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.
+<div class="paraph"><a href="/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.</div>
 
 <h1>Manfaat Kapsul Albumin</h1>
 
-<div>Beberapa khasiat utama albumin antara lain:</div>
+<div class="paraph">Beberapa khasiat utama albumin antara lain:</div>
 
 <ol><li>Mengangkat Molekul-Molekul Kecil Melewati Plasma dan Cairan Sel; fungsi ini memiliki kaitan yang sangat erat dengan ketersediaan bahan metabolisme (asam lemak bebas dan bilirubin).</li>
     <li>Melarutkan obat-obatan yang kurang larut dalam air.</li>

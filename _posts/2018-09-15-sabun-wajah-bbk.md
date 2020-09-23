@@ -6,22 +6,21 @@ image: https://3.bp.blogspot.com/-eePvxP_hbXY/W6xFP771wPI/AAAAAAAABK8/jHk7NiOBPT
 description: "Sabun Wajah Attaubah"
 ---
 
-<div>Sabun Wajah Attaubah terbuat dari herba-herbal pilihan sehingga cocok untuk semua kondisi kulit wajah, seperti:</div>
-
+<div class="paraph">Sabun Wajah Attaubah terbuat dari herba-herbal pilihan sehingga cocok untuk semua kondisi kulit wajah, seperti:</div>
 
 <ol><li>Kulit Normal</li>
 <li>Kulit Berminyak</li>
 <li>dan Kulit Berjerawat</li></ol>
 
-<div>Selain itu, <b>Sabun Wajah Attaubah</b> terdiri dari beberapa varian diantaranya: <i>parfum, non-parfum, dan scrub</i>.</div>
+<div class="paraph">Selain itu, <b>Sabun Wajah Attaubah</b> terdiri dari beberapa varian diantaranya: <i>parfum, non-parfum, dan scrub</i>.</div>
 
 <h1>Kandungan Sabun Wajah</h1>
 
-<div><b>Sabun Wajah Attaubah</b> diproduksi dari bahan-bahan alami seperti: minyak sawit, madu, zaitun, tepung jagung (<i>zea mays</i>), mimba, teh hijau, temu mangga, dan pegagan.</div>
+<div class="paraph"><b>Sabun Wajah Attaubah</b> diproduksi dari bahan-bahan alami seperti: minyak sawit, madu, zaitun, tepung jagung (<i>zea mays</i>), mimba, teh hijau, temu mangga, dan pegagan.</div>
 
 <h1>Khasiat Sabun Wajah</h1>
 
-<div>Herbal-herbal yang ada di dalam Sabun Wajah Attaubah mempunyai khasiat antara lain:</div>
+<div class="paraph">Herbal-herbal yang ada di dalam Sabun Wajah Attaubah mempunyai khasiat antara lain:</div>
 
 <ol><li>Madu: madu sudah terbukti berkhasiat untuk kecantikan seperti: pelembab alami kulit, menghilangkan bekas luka, mengatasi jerawat, membersihkan pori-pori & bakteri.</li>
 <li>Minyak kelapa sawit yang kaya akan vitamin E sangat bagus untuk kulit, mencegah penuaan dini, menghilangkan noda hitam pada kulit, dan sumber nutrisi kulit.</li>
