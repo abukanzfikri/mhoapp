@@ -261,7 +261,7 @@ $sidebar-display: "sidebar-display";
 }
 
 #topbar i { // icons
-  color: #999;
+  color: var(--topbar-text-color);
   font-size: 1.3rem;
 }
 
@@ -821,7 +821,7 @@ div.post-content .table-wrapper {
   text-align: center;
   background: var(--tag-bg);
   border-radius: .3rem;
-  padding: 0 .4rem;
+  padding: .1rem .4rem;
   color: inherit;
   line-height: 1.3rem;
   &:not(:last-child) {
@@ -832,7 +832,7 @@ div.post-content .table-wrapper {
     @extend %tag-hover;
     border-bottom: none;
     text-decoration: none;
-    color: #ffab40;
+    color: #bdbdbd;
   }
 }
 
