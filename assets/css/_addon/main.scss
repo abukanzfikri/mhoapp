@@ -137,7 +137,7 @@ $sidebar-display: "sidebar-display";
     display: -webkit-box;
     display: -ms-flexbox;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--main-border-color);
 
     >li:last-child {
       >a {
@@ -342,7 +342,8 @@ $sidebar-display: "sidebar-display";
     padding: .5rem;
     margin: 0 1rem 1rem 0;
     &::before {
-      content: "#";
+      content: "\F0423";
+      font-family: 'Material Design Icons'
       color: var(--text-muted-color);
       padding-right: .2rem;
     }
@@ -801,7 +802,7 @@ div.post-content .table-wrapper {
     }
   }
   p,.paraph {
-    font-size: 1.08rem;
+    padding: .8rem 0;
     > img {
       margin-top: .5rem;
       margin-bottom: 1.5rem;
@@ -1031,7 +1032,7 @@ div.post-content .table-wrapper {
 
   #topbar-wrapper {
     left: 0;
-    background-color: #69F0AE;
+    background-color: var(--topbar-wrapper-mobile-bg);
   }
 
   .topbar-up {

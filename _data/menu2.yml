@@ -5,7 +5,7 @@
 #  MIT Licensed
 
 -
-  name: "Install"
+  name: "MHO App"
   icon: "mdi mdi-monitor-cellphone"
   path: tabs
   url: about

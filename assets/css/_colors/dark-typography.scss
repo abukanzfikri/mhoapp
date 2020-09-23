@@ -11,6 +11,7 @@
   --main-wrapper-bg: rgb(27, 27, 30);
   --body-bg: var(--main-wrapper-bg);
   --topbar-wrapper-bg: rgb(39, 40, 43);
+  --topbar-wrapper-mobile-bg: var(--topbar-wrapper-bg);
   --search-wrapper-bg: rgb(34, 34, 39);
   --search-icon-color: rgb(100, 102, 105);
   --input-focus-border-color: rgb(112, 114, 115);
@@ -21,7 +22,7 @@
   --text-color: #e8eaed;
   --text-muted-color: rgb(107, 116, 124);
   --link-color: #008845;
-  --link-hover-color: #5e4228;
+  --link-hover-color: #ccc;
   --main-border-color: rgb(44, 45, 45);
   --button-bg: rgb(39, 40, 43);
   --blockquote-border-color: rgb(66, 66, 66);

@@ -17,6 +17,6 @@ function copyLink(url) {
   document.execCommand("copy");
   $temp.remove();
 
-  alert("Link copied successfully!");
+  alert("Tautan berhasil disalin!");
 
 }

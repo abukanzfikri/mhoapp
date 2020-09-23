@@ -213,7 +213,7 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
 }
 
 %btn-share-hovor {
-  color: var(--btn-share-hover-color)!important;
+  color: var(--sidebar-bottom-color-hover)!important;
 }
 
 .share-wrapper {
@@ -221,7 +221,9 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
   user-select: none;
   .share-icons {
     font-size: 1.2rem;
+    color: var(--text-muted-color);
     a {
+      color: var(--text-muted-color);
       &:not(:last-child) {
         margin-right: .25rem;
       }
