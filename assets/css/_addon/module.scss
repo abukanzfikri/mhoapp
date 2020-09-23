@@ -10,7 +10,7 @@
 /* ---------- scss placeholder --------- */
 
 %tag-hover {
-  background: #424242;
+  background: var(--search-tag-bg);
   transition: background 0.35s ease-in-out;
 }
 

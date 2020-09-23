@@ -305,7 +305,7 @@ $sidebar-display: "sidebar-display";
 }
 
 #search-wrapper.input-focus {
-  background-color: var(--input-focus-border-color);
+  background-color: var(--input-focus-border-color) !important;
 }
 
 #search-cancel { /* 'Cancel' link */
