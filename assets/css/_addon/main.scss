@@ -304,6 +304,10 @@ $sidebar-display: "sidebar-display";
   }
 }
 
+#search-wrapper.input-focus {
+  background-color: var(--input-focus-border-color);
+}
+
 #search-cancel { /* 'Cancel' link */
   color: var(--link-color);
   margin-left: 1rem;
@@ -1119,6 +1123,8 @@ div.post-content .table-wrapper {
   #search-wrapper {
     width: 22%;
     min-width: 150px;
+    border: 1px solid var(--search-wrapper-mobile-bg);
+    background: var(--search-wrapper-mobile-bg);
   }
 
   /* button 'back-to-Top' position */
