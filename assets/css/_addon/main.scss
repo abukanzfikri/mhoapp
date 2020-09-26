@@ -1055,6 +1055,8 @@ div.post-content .table-wrapper {
   }
 
   #search-wrapper {
+    border: 1px solid var(--search-wrapper-mobile-bg);
+    background: var(--search-wrapper-mobile-bg);
     &.loaded ~ a {
       margin-right: 1rem;
     }
@@ -1123,8 +1125,6 @@ div.post-content .table-wrapper {
   #search-wrapper {
     width: 22%;
     min-width: 150px;
-    border: 1px solid var(--search-wrapper-mobile-bg);
-    background: var(--search-wrapper-mobile-bg);
   }
 
   /* button 'back-to-Top' position */
