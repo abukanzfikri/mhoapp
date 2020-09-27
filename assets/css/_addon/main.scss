@@ -290,10 +290,13 @@ $sidebar-display: "sidebar-display";
 #search-wrapper {
   display: flex;
   width: 95%;
-  border-radius: 1rem;
-  border: 1px solid var(--search-wrapper-bg);
+  border-radius: .5rem;
+  border: 1px solid transparent;
   background: var(--search-wrapper-bg);
   padding: 0 .5rem;
+  height: 48px;
+  -webkit-transition: background 100ms ease-in,width 100ms ease-out;
+  transition: background 100ms ease-in,width 100ms ease-out;
   i {
     z-index: 2;
     font-size: 1.3rem;
@@ -305,7 +308,10 @@ $sidebar-display: "sidebar-display";
 }
 
 #search-wrapper.input-focus {
-  background-color: var(--input-focus-border-color) !important;
+  background: var(--input-focus-bg-color) !important;
+  border: 1px solid transparent;
+  -webkit-box-shadow: var(--input-focus-box-shadow);
+  box-shadow: var(--input-focus-box-shadow);
 }
 
 #search-cancel { /* 'Cancel' link */
@@ -1055,7 +1061,7 @@ div.post-content .table-wrapper {
   }
 
   #search-wrapper {
-    border: 1px solid var(--search-wrapper-mobile-bg);
+    border: 1px solid transparent;
     background: var(--search-wrapper-mobile-bg);
     &.loaded ~ a {
       margin-right: 1rem;

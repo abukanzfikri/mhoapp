@@ -34,11 +34,12 @@
   --topbar-wrapper-bg: white;
   --topbar-wrapper-mobile-bg: #69F0AE;
   --topbar-text-color: rgb(78, 78, 78);
-  --search-wrapper-bg: #f5f5f5;
+  --search-wrapper-bg: #f1f3f4;
   --search-wrapper-mobile-bg: rgba(255,255,255,.8);
   --search-tag-bg: #f8f9fa;
   --search-icon-color: #6c757d;
-  --input-focus-border-color: rgba(255,255,255,.7);
+  --input-focus-bg-color: rgba(255,255,255,.7);
+  --input-focus-box-shadow: 0 1px 1px 0 rgba(65,69,73,0.3), 0 1px 3px 1px rgba(65,69,73,0.15)  
 
   /* Sidebar Bottom */
   --sidebar-bottom-color-hover: #202124;
