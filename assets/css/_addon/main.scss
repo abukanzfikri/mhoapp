@@ -806,12 +806,9 @@ div.post-content .table-wrapper {
   overflow-wrap: break-word;
   word-wrap: break-word;
   a {
-    color: inherit;
-    background: linear-gradient(to top, transparent 0%, #69F0AE 0%, #69F0AE 100%, transparent 100%) no-repeat left 0 bottom 0;
-    background-size: 100% .5rem;
-    transition: background-size 250ms ease;
+    @extend %link-color;
     &:hover {
-      background-size: 100% calc(1em + 6px);
+      @extend %link-hover;
     }
   }
   p,.paraph {
@@ -824,6 +821,16 @@ div.post-content .table-wrapper {
   }
 }
 
+.post-content .mhoapp a{
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--mhoapp-link-bg) 0%, var(--mhoapp-link-bg) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+  &:hover {
+      color: var(--mhoapp-link-hover-color);
+      background-size: 100% calc(1em + 6px);
+  }
+}
 .tag:hover {
   @extend %tag-hover;
 }
@@ -915,8 +922,6 @@ div.post-content .table-wrapper {
 }
 
 .input-focus {
-  box-shadow: none;
-  border-color: var(--input-focus-border-color) !important;
   background: center !important;
   transition: background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
