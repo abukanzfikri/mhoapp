@@ -821,16 +821,6 @@ div.post-content .table-wrapper {
   }
 }
 
-.post-content .mhoapp a{
-  color: inherit;
-  background: linear-gradient(to top, transparent 0%, var(--mhoapp-link-bg) 0%, var(--mhoapp-link-bg) 100%, transparent 100%) no-repeat left 0 bottom 0;
-  background-size: 100% .4rem;
-  transition: background-size 250ms ease;
-  &:hover {
-      color: var(--mhoapp-link-hover-color);
-      background-size: 100% calc(1em + 6px);
-  }
-}
 .tag:hover {
   @extend %tag-hover;
 }

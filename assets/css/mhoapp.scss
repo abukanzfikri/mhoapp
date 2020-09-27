@@ -1,0 +1,51 @@
+---
+# Styles for MHO App Posts Links
+# v2.0
+# https://github.com/abukanzfikri/mhoapp
+# © 2020 Abukanz Fikri
+# MIT License
+---
+
+
+% include_relative _addon/main.scss %}
+{% include_relative _addon/syntax.scss %}
+
+.mhoapp.green {
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--mhoapp-green-link) 0%, var(--mhoapp-green-link) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+}
+
+.mhoapp.orange {
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--mhoapp-orange-link) 0%, var(--mhoapp-orange-link) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+}
+
+.mhoapp.pink {
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--mhoapp-pink-link) 0%, var(--mhoapp-pink-link) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+}
+
+.mhoapp.purple {
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--mhoapp-purple-link) 0%, var(--mhoapp-purple-link) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+}
+
+.mhoapp.red {
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--mhoapp-red-link) 0%, var(--mhoapp-red-link) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+}
+
+.mhoapp:hover {
+  color: var(--mhoapp-link-hover) !important;
+  background-size: 100% calc(1em + 6px);
+}
