@@ -294,7 +294,7 @@ $sidebar-display: "sidebar-display";
   border: 1px solid transparent;
   background: var(--search-wrapper-bg);
   padding: 0 .5rem;
-  height: 48px;
+  height: 42px;
   -webkit-transition: background 100ms ease-in,width 100ms ease-out;
   transition: background 100ms ease-in,width 100ms ease-out;
   i {
@@ -806,9 +806,12 @@ div.post-content .table-wrapper {
   overflow-wrap: break-word;
   word-wrap: break-word;
   a {
-    @extend %link-color;
+    color: inherit;
+    background: linear-gradient(to top, transparent 0%, #69F0AE 0%, #69F0AE 100%, transparent 100%) no-repeat left 0 bottom 0;
+    background-size: 100% .5rem;
+    transition: background-size 250ms ease;
     &:hover {
-      @extend %link-hover;
+      background-size: 100% calc(1em + 6px);
     }
   }
   p,.paraph {
