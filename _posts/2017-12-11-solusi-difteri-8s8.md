@@ -40,7 +40,7 @@ image: https://4.bp.blogspot.com/-e89o_N7iMSE/Wi3-mD9xRII/AAAAAAAAAmw/oQXz7lAkFZ
     <li>Konsumsi herbal anti-inveksi, dengan herba: <b>Kunyit</b>, <b>Temulawak</b>, <b>Mengkudu</b>, <b>Kayumanis</b>, <b>Alang-alang</b>.</li>
 </ol>
 
-<div class="paraph">Alhamdulillah, herbal-herbal alami tersebut sudah ada di dalam <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung Attaubah">Madu Kuning Sehat Lambung</a>.</div>
+<div class="paraph">Alhamdulillah, herbal-herbal alami tersebut sudah ada di dalam <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung Attaubah">Madu Kuning Sehat Lambung</a>.</div>
 
 <h1>Cara Konsumsi Herbal untuk Difteri</h1>
 
@@ -49,7 +49,7 @@ image: https://4.bp.blogspot.com/-e89o_N7iMSE/Wi3-mD9xRII/AAAAAAAAAmw/oQXz7lAkFZ
 
 <ol>
     <li>Pijat urut sistem limfatik dan sendi.</li>
-    <li>Pada bagian leher, pada wilayah kelenjar limfa yang bengkak dibalur dengan <a href="/posts/minyak-herba-siaga-premium-2tm" title="Minyak Herba Siaga Premium">Minyak Herba Siaga Premium</a>.
+    <li>Pada bagian leher, pada wilayah kelenjar limfa yang bengkak dibalur dengan <a cclass="mhoapp red" href="/posts/minyak-herba-siaga-premium-2tm" title="Minyak Herba Siaga Premium">Minyak Herba Siaga Premium</a>.
 </ol>
 
 <h1>Makanan yang Perlu Dihindari oleh Penderita Difteri</h1>

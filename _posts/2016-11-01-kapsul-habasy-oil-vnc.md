@@ -10,7 +10,7 @@ description: "Kapsul Habasy Oil"
 
 <h1>Kandungan Habasy Oil</h1>
 
-<div class="paraph"><a href="/posts/kapsul-habasy-oil-vnc" title="Attaubah Habasy Oil">Attaubah Habasy Oil</a> menggunakan minyak habbat kualitas terbaik sebagai bahan bakunya.</div>
+<div class="paraph"><a cclass="mhoapp purple" href="/posts/kapsul-habasy-oil-vnc" title="Attaubah Habasy Oil">Attaubah Habasy Oil</a> menggunakan minyak habbat kualitas terbaik sebagai bahan bakunya.</div>
 
 <h1>Manfaat Habasy Oil</h1>
 

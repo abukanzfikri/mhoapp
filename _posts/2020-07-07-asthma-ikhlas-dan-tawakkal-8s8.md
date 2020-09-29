@@ -31,6 +31,6 @@ image: https://2.bp.blogspot.com/-NvKt4XGcNAM/XapemeTyBuI/AAAAAAAAD7w/QtXWe3uD7D
 
 <h1>Apa Herbal untuk Solusi Asthma?</h1>
 
-<div class="paraph">Selain ikhlas dan khusnudzon, penting juga untuk mengkonsumsi herbal untuk memaksimalkan proses ikhtiar ini. Produk yang tepat adalah <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dan <a href="/posts/kapsul-bawang-mekah-0kl" title="Bawang Mekah">Bawang Mekah</a>. Konsumsi <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> 2-3 SDM 3x sehari dan <a href="/posts/kapsul-bawang-mekah-0kl" title="Bawang Mekah">Bawang Mekah</a> 1-2 kapsul sebelum makan.</div>
+<div class="paraph">Selain ikhlas dan khusnudzon, penting juga untuk mengkonsumsi herbal untuk memaksimalkan proses ikhtiar ini. Produk yang tepat adalah <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dan <a cclass="mhoapp red" href="/posts/kapsul-bawang-mekah-0kl" title="Bawang Mekah">Bawang Mekah</a>. Konsumsi <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> 2-3 SDM 3x sehari dan <a cclass="mhoapp red" href="/posts/kapsul-bawang-mekah-0kl" title="Bawang Mekah">Bawang Mekah</a> 1-2 kapsul sebelum makan.</div>
 
 <div class="paraph">Dan selalu ingat untuk menghindari makanan yang bersifat kering atau makanan yang sudah dimasukkan ke dalam kulkas.</div>

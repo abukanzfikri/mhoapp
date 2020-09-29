@@ -6,11 +6,11 @@ image: https://4.bp.blogspot.com/-eocrtMRo8ts/XZcOC12irlI/AAAAAAAAD1A/AreZm_PWQ3
 description: "Madu Multiflora"
 ---
 
-<div class="paraph"><a href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> merupakan madu murni pilihan yang berasal dari banyak aneka nektar tumbuh-tumbuhan. Untuk menjaga kualitas madu yang kami produksi, akan dilakukan pengecekan ulang di laboratorium setiap kali panen. Sehingga kandungan enzim di dalam <a href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> akan terus terjamin.</div>
+<div class="paraph"><a cclass="mhoapp orange" href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> merupakan madu murni pilihan yang berasal dari banyak aneka nektar tumbuh-tumbuhan. Untuk menjaga kualitas madu yang kami produksi, akan dilakukan pengecekan ulang di laboratorium setiap kali panen. Sehingga kandungan enzim di dalam <a cclass="mhoapp orange" href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> akan terus terjamin.</div>
 
 <h1>Kandungan Madu Multiflora</h1>
 
-<div class="paraph">Kandungan utama <a href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> adalah 100% Madu Murni Pilihan.</div>
+<div class="paraph">Kandungan utama <a cclass="mhoapp orange" href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> adalah 100% Madu Murni Pilihan.</div>
 
 <h1>Manfaat Madu Multiflora</h1>
 

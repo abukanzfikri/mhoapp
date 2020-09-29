@@ -15,9 +15,9 @@ image: https://1.bp.blogspot.com/-L6Wm2VSeXPs/Xf8V9ExyF1I/AAAAAAAAEZo/hp3zD9tKrd
 
 <div class="paraph">Solusi untuk batuk seperti ini, kami sarankan konsumsi:</div>
 
-<ol><li>Untuk usia kurang dari 2 tahun, konsumsi <a href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> yang diseduh dengan air kencur</li>
-<li>Untuk usia lebih dari 2 tahun, konsumsi <a href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> yang diseduh dengan air jahe</li>
-<li>Atau untuk dewasa, konsumsi <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dengan <a href="/posts/kapsul-habbapro-91t" title="Kapsul Habbapro">HabbaPro</a></li></ol>
+<ol><li>Untuk usia kurang dari 2 tahun, konsumsi <a cclass="mhoapp blue" href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> yang diseduh dengan air kencur</li>
+<li>Untuk usia lebih dari 2 tahun, konsumsi <a cclass="mhoapp blue" href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> yang diseduh dengan air jahe</li>
+<li>Atau untuk dewasa, konsumsi <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dengan <a class="mhoapp purple" href="/posts/kapsul-habbapro-91t" title="Kapsul Habbapro">HabbaPro</a></li></ol>
 
 <div class="paraph">Saran lainnya, hindari makanan-makanan yang digoreng dan makanan manis dari gula pasir.</div>
 
@@ -27,28 +27,28 @@ image: https://1.bp.blogspot.com/-L6Wm2VSeXPs/Xf8V9ExyF1I/AAAAAAAAEZo/hp3zD9tKrd
 
 <div class="paraph">Suara batuk parau atau terdengar seperti menggonggong disertai dengan dahak yang sulit keluar. Dahak ini biasanya berwarna kuning. Dan juga disertai dengan kering dan nyeri tenggotokan. Sedangkan dari hidung keluar nafas yang lebih panas. Kondisi panas pada paru-paru ini yang menyebabkan energi gerak terhambat.</div>
 
-<div class="paraph">Solusi untuk batuk seperti ini, konsumsi <a href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> dengan <a href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
+<div class="paraph">Solusi untuk batuk seperti ini, konsumsi <a cclass="mhoapp blue" href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> dengan <a cclass="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
 
 <h1>Batuk Suara Rendah</h1>
 
 <div class="paraph">Batuk dengan suara bernada rendah disertai dengan dahak yang berwarna putih menandakan dingin lembab. Dingin lembab ini mempengaruhi kinerja paru-paru. Dahak/lendir pada batuk ini mudah keluar.</div>
 
-<div class="paraph">Kondisi semacam ini dapat disolusikan dengan konsumsi <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> yang diseduh dengan air hangat. Konsumsi secara istiqomah sebelum makan.</div>
+<div class="paraph">Kondisi semacam ini dapat disolusikan dengan konsumsi <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> yang diseduh dengan air hangat. Konsumsi secara istiqomah sebelum makan.</div>
 
 <h1>Penanganan Batuk Kering</h1>
 
 <div class="paraph">Seperti yang sudah dipahami masyarakat, pada batuk kering, dahak/lendir sangat sulit keluar. Kadang-kadang dijumpai sedikit darah di dalam dahak. Kondisi ini menunjukkan kurangnya asupan buah, sayur, dan mineral.</div>
 
-<div class="paraph">Dengan kondisi ini, maka cukuk konsumsi <a href="/posts/fattaubah-13x" title="Fattaubah">Vegefiber</a> diseduh dengan air hangat.</div>
+<div class="paraph">Dengan kondisi ini, maka cukuk konsumsi <a class="mhoapp red" href="/posts/fattaubah-13x" title="Fattaubah">Vegefiber</a> diseduh dengan air hangat.</div>
 
 <h1>Penanganan Batuk Rejan</h1>
 
 <div class="paraph">Ada pula kondisi dimana batuk berkali-kali dan sukar berhenti. Dan berakhir dengan terengah-engah. Biasanya disebut batuk rejan atau pertusis.</div>
 
-<div class="paraph">Penderita batuk rejan atau pertusis sangat penting sekali diberikan perbaikan pada nutrisnya. Sehingga sangat tepat konsumsi <a href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> dan <a href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
+<div class="paraph">Penderita batuk rejan atau pertusis sangat penting sekali diberikan perbaikan pada nutrisnya. Sehingga sangat tepat konsumsi <a cclass="mhoapp blue" href="/posts/susu-kambing-etawa-nk5" title="Susu Kambing Etawa">Susu Kambing Etawa</a> dan <a cclass="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
 
 <h1>Penanganan Batuk Pada Anak</h1>
 
-<div class="paraph">Batuk yang terjadi pada anak disertai suara parau serta nafas sesak bisa mengindikasikan terkena <a href="/posts/solusi-difteri-8s8" title="Materi MHO Solusi Difteri">difteri</a>. Dalam kondisi seperti ini, penting untuk konsumsi <a href="/posts/spirulinakids-anak-sholeh-uce" title="Spirulinakids Anak Sholeh">Spirulinakids Anak Sholeh</a> dan tambahkan <a href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
+<div class="paraph">Batuk yang terjadi pada anak disertai suara parau serta nafas sesak bisa mengindikasikan terkena <a class="mhoapp teal" href="/posts/solusi-difteri-8s8" title="Materi MHO Solusi Difteri">difteri</a>. Dalam kondisi seperti ini, penting untuk konsumsi <a cclass="mhoapp green" href="/posts/spirulinakids-anak-sholeh-uce" title="Spirulinakids Anak Sholeh">Spirulinakids Anak Sholeh</a> dan tambahkan <a cclass="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>.</div>
 
 <blockquote>Ingat! Ketika batuk, hindari dingin, keletihan, makanan yang menyebabkan lembab, seperti: makanan kering, gula pasir, makanan dihangatkan, dan makanan yang lebih dari delapan jam</blockquote>

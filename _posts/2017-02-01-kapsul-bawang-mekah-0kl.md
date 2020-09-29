@@ -10,7 +10,7 @@ description: "Kapsul Bawang Mekah"
 
 <h1>Kandungan Bawang Mekah</h1>
 
-<div class="paraph">Kandungan <a href="/posts/kapsul-bawang-mekah-0kl" title="Bawang Mekah Attaubah">Bawang Mekah Attaubah</a> adalah 100% ekstrak bawang mekah.</div>
+<div class="paraph">Kandungan <a cclass="mhoapp red" href="/posts/kapsul-bawang-mekah-0kl" title="Bawang Mekah Attaubah">Bawang Mekah Attaubah</a> adalah 100% ekstrak bawang mekah.</div>
 
 <h1>Manfaat Bawang Mekah</h1>
 

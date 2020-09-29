@@ -9,9 +9,9 @@ tags: [Madu Kuning,Minyak Siaga]
 <div class="paraph">Baca juga beberapa materi MHO tentang diagnosa lidah berikut ini:</div>
 
 <ol>
-<li><a href="/posts/diagnosa-lidah-panas-kering-6u1">Diagnosa Lidah: Panas & Kering</a></li>
-<li><a href="/posts/diagnosa-berbagai-kondisi-lidah-r79">Diagnosa Berbagai Kondisi Lidah</a></li>
-<li><a href="/posts/diagnosa-lidah-bergelombang-x30">Diagnosa Lidah: Lidah Bergelombang</a></li>
+<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-panas-kering-6u1">Diagnosa Lidah: Panas & Kering</a></li>
+<li><a class="mhoapp teal" href="/posts/diagnosa-berbagai-kondisi-lidah-r79">Diagnosa Berbagai Kondisi Lidah</a></li>
+<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-bergelombang-x30">Diagnosa Lidah: Lidah Bergelombang</a></li>
 </ol>
 
 <h1>Diagnosa Lidah Berdasarkan Bentuk, Warna, dan Aroma</h1>
@@ -31,13 +31,13 @@ tags: [Madu Kuning,Minyak Siaga]
 <div class="paraph">Berdasarkan diagnosa tersebut, maka langkah-langkah penanganannya adalah:</div>
 
 <ol><li>Perbaikan kelemahan otot pada organ intim</li>
-    <li>Konsumsi <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> sebagai herba anti lendir/penyumbatan, herba yang bersifat detoksikasi, dan herba penyeimbang suhu.</li>
+    <li>Konsumsi <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> sebagai herba anti lendir/penyumbatan, herba yang bersifat detoksikasi, dan herba penyeimbang suhu.</li>
     </ol>
 
 <h1>Cara Konsumsi Herbal</h1>
 
-<div class="paraph">Cara konsumsi <a href="/categories/produk">herbal</a> <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> untuk keluhan reproduksi dengan kondisi lidah seperti di atas adalah:</div>
-    <ol><li>Minum <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> 3 SDM 3x sehari, lalu minum air hangat.</li>
-        <li>Lulur dengan serbuk dari <a href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> (endapan ampas ketika diseduh) pada daerah paha dan pinggang.</li>
-        <li>Gunakan <a href="/posts/minyak-herba-siaga-premium-2tm" title="Minyak Herba Siaga Premium">Minyak Herba Siaga Premium</a> untuk oles di wilayah betis, bagian dada dan punggung</li></ol>
+<div class="paraph">Cara konsumsi <a href="/categories/produk">herbal</a> <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> untuk keluhan reproduksi dengan kondisi lidah seperti di atas adalah:</div>
+    <ol><li>Minum <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> 3 SDM 3x sehari, lalu minum air hangat.</li>
+        <li>Lulur dengan serbuk dari <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> (endapan ampas ketika diseduh) pada daerah paha dan pinggang.</li>
+        <li>Gunakan <a cclass="mhoapp red" href="/posts/minyak-herba-siaga-premium-2tm" title="Minyak Herba Siaga Premium">Minyak Herba Siaga Premium</a> untuk oles di wilayah betis, bagian dada dan punggung</li></ol>
         
