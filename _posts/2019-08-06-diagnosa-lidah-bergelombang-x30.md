@@ -48,4 +48,4 @@ image: https://4.bp.blogspot.com/-TaJLyuQOwqM/XYGP2GEyoCI/AAAAAAAADvI/oKdQrnUe-_
 <li>Makanan yang dihangatkan.</li>
 <li>Makanan yang proses dengan panas tinggi.</li></ol>
 
-<div class="paraph">Selain menghindari makanan-makanan tersebut di atas, lidah bergerigi dengan berbagai diagnosa yang ada tersebut, dapat disolusikan dengan mengkonsumsi <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
+<div class="paraph">Selain menghindari makanan-makanan tersebut di atas, lidah bergerigi dengan berbagai diagnosa yang ada tersebut, dapat disolusikan dengan mengkonsumsi <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>

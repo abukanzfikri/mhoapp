@@ -7,7 +7,7 @@ image: https://2.bp.blogspot.com/-yJn74qg4ZL8/XYmIcnl8bhI/AAAAAAAADw4/UakzVfXxNs
 
 <div class="paraph">Herbal-herbal yang ada di alam ini sangat beragam dan bervariasi jenisnya. Setiap ragam dan variasi itu menjadikan herbal-herbal memiliki fungsi dan khasiat yang berbeda. Misal, herbal yang berbentuk daun, mempunyai khasiat yang berbeda dengan herbal yang bersumber dari batang, buah, maupun, akar.</div>
 
-<div class="paraph">Kali ini, ada dibahas secara singkat khasiat-khasiat herbal yang berasal dari akar. Herbal-herbal akar banyak terdapat di dalam <a class="mhoapp teal" href="/posts/" title="Produk herbAttaubah">produk-produk</a> CV. herbAttaubah. Ada yang disinergikan dengan herbal-herbal dari berbagai jenis, seperti dalam <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Ada juga yang disinergikan dengan herbal-herbal lain yang sama-sama berbentuk akar, seperti sinergi dalam produk <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a>.</div>
+<div class="paraph">Kali ini, ada dibahas secara singkat khasiat-khasiat herbal yang berasal dari akar. Herbal-herbal akar banyak terdapat di dalam <a class="mhoapp teal" href="/posts/" title="Produk herbAttaubah">produk-produk</a> CV. herbAttaubah. Ada yang disinergikan dengan herbal-herbal dari berbagai jenis, seperti dalam <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Ada juga yang disinergikan dengan herbal-herbal lain yang sama-sama berbentuk akar, seperti sinergi dalam produk <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a>.</div>
 
 <div class="paraph">Sinergi herbal-herbal dari jenis yang sama akan memperkuat khasiat-khasiat yang dimiliki oleh herbal tersebut. Dengan kata lain, Kopi herbAttaubah mempunyai khasiat-khasiat herbal akar yang lebih kuat. Lalu, apa khasiat dari herbal akar?</div>
 
@@ -16,7 +16,7 @@ image: https://2.bp.blogspot.com/-yJn74qg4ZL8/XYmIcnl8bhI/AAAAAAAADw4/UakzVfXxNs
 <div class="paraph">Seperti halnya sifat dan kondisi akar-akar yang kita lihat dan pahami di alam ini, herbal akar pun mempunyai fungsi dan khasiat yang tidak jauh berbeda. Berikut sedikit yang dapat kami sampaikan:</div>
 
 <ol><li>Sumber kesuburan
-<div class="paraph">Herbal akar yang ada di dalam <a cclass="mhoapp red" href="/posts/kopi-herbattaubah-mav">Kopi herbAttaubah</a> bermanfaat meningkatkan hormon sehingga akan menyuburkan bagi pasutri, sangat membantu program kehamilan dan menguatkan fisik serta daya tahan tubuh.</div></li>
+<div class="paraph">Herbal akar yang ada di dalam <a  class="mhoapp red" href="/posts/kopi-herbattaubah-mav">Kopi herbAttaubah</a> bermanfaat meningkatkan hormon sehingga akan menyuburkan bagi pasutri, sangat membantu program kehamilan dan menguatkan fisik serta daya tahan tubuh.</div></li>
 <li>Sumber Kekuatan
 <div class="paraph">Akar adalah sumber kekuatan sebuah pohon dapat berdiri kokoh, tidak tumbang. Maka, herba akar juga bermanfaat untuk menguatkan anak-anak dan remaja dalam setiap aktifitas, serta menguatkan vitalitas bagi suami dan istri.</div></li>
 <li>Sumber Nutrisi

@@ -38,7 +38,7 @@ image: https://4.bp.blogspot.com/-bLQ1hqQISIQ/XvazpUNDAgI/AAAAAAAAFKY/ffkBuuPf8-
 <li>makanan yang terlalu lembab ,</li>
 <li>makanan yang dihangatkan.</li></ol>
 
-<div class="paraph">Dan produk herbal yang dianjurkan adalah <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
+<div class="paraph">Dan produk herbal yang dianjurkan adalah <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
 
 <h2>Kekuatan Otot</h2>
 
@@ -48,13 +48,13 @@ image: https://4.bp.blogspot.com/-bLQ1hqQISIQ/XvazpUNDAgI/AAAAAAAAFKY/ffkBuuPf8-
 <li>ginjal,</li>
 <li>serta paru-paru.</li></ol>
 
-<div class="paraph">Adapun produk yang tepat untuk permasalahan ini adalah <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>, <a cclass="mhoapp purple" href="/posts/kapsul-gamat-39j" title="Gamat Emas">Gamat Emas</a>, dan <b>Minyak Herba Siaga Pasutri</b>. <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dan <a cclass="mhoapp purple" href="/posts/kapsul-gamat-39j" title="Gamat Emas">Gamat Emas</a> untuk dikonsumsi. Sedangkan <b>Minyak Herba Siaga Pasutri</b> untuk dioleskan dibuah zakar, organ kemaluan dan paha bagian dalam.</div>
+<div class="paraph">Adapun produk yang tepat untuk permasalahan ini adalah <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>, <a  class="mhoapp purple" href="/posts/kapsul-gamat-39j" title="Gamat Emas">Gamat Emas</a>, dan <b>Minyak Herba Siaga Pasutri</b>. <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dan <a  class="mhoapp purple" href="/posts/kapsul-gamat-39j" title="Gamat Emas">Gamat Emas</a> untuk dikonsumsi. Sedangkan <b>Minyak Herba Siaga Pasutri</b> untuk dioleskan dibuah zakar, organ kemaluan dan paha bagian dalam.</div>
 
 <h1>Ejakulasi Dini</h1>
 
 <div class="paraph">Bagaimana dengan kondisi pria yang mudah orgasme dalam waktu singkat? Kondisi yang sering disebut dengan ejakulasi dini ini berkaitan dengan nutrisi dan emosi. Perlu dilihat lebih jauh bagaimana kondisi lidahnya.</div>
 
-<div class="paraph">Pertama, kondisi lidah berwarna putih. Kondisi lidah yang berwarna putih ini sangat tepat untuk konsumsi <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Kedua, kondisi lidah berwarna merah dan berlendir. Sedangkan untuk kondisi yang kedua, maka konsumsi <a cclass="mhoapp red" href="/posts/madu-adam-0ru" title="Madu Adam">Madu Adam</a> dan <a cclass="mhoapp orange" href="/posts/madu-hutan-premium-xkz" title="Madu Hutan Premium">Madu Hutan Premium</a>.</div>
+<div class="paraph">Pertama, kondisi lidah berwarna putih. Kondisi lidah yang berwarna putih ini sangat tepat untuk konsumsi <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Kedua, kondisi lidah berwarna merah dan berlendir. Sedangkan untuk kondisi yang kedua, maka konsumsi <a  class="mhoapp red" href="/posts/madu-adam-0ru" title="Madu Adam">Madu Adam</a> dan <a  class="mhoapp orange" href="/posts/madu-hutan-premium-xkz" title="Madu Hutan Premium">Madu Hutan Premium</a>.</div>
 
 <h1>Impotensi Berkala</h1>
 

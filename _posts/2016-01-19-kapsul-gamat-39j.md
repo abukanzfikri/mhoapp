@@ -10,7 +10,7 @@ description: "Kapsul ekstrak gamat emas"
 
 <h1>Kandungan Gamat Emas</h1>
 
-<div>Kandungan <a cclass="mhoapp purple" href="/posts/kapsul-gamat-39j" title="Kapsul Gamat Attaubah">Kapsul Gamat</a>: Ekstrak Gamat 100%.</div>
+<div>Kandungan <a  class="mhoapp purple" href="/posts/kapsul-gamat-39j" title="Kapsul Gamat Attaubah">Kapsul Gamat</a>: Ekstrak Gamat 100%.</div>
 
 <h1>Manfaat Gamat Emas</h1>
 

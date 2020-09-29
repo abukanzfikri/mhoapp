@@ -10,7 +10,7 @@ description: "Sabun Hawa Attaubah"
 
 <h1>Kandungan Sabun Mandi</h1>
 
-<div class="paraph"><a cclass="mhoapp green" href="/posts/sabun-mandi-dq0" title="Sabun Mandi Attaubah">Sabun Mandi Attaubah</a> merupakan sabun herbal yang kandungannya berupa madu, minyak sawit, zaitun, tepung jagung (zea mays). Untuk varian ditambahkan herbal-herbal lain seperti: pegagan, bidara, teh hijau.</div>
+<div class="paraph"><a  class="mhoapp green" href="/posts/sabun-mandi-dq0" title="Sabun Mandi Attaubah">Sabun Mandi Attaubah</a> merupakan sabun herbal yang kandungannya berupa madu, minyak sawit, zaitun, tepung jagung (zea mays). Untuk varian ditambahkan herbal-herbal lain seperti: pegagan, bidara, teh hijau.</div>
 
 <h1>Manfaat Sabun Mandi</h1>
 

@@ -6,7 +6,7 @@ image: https://2.bp.blogspot.com/-PNpA9QJC13c/XTkxaq2OZmI/AAAAAAAABzc/LgpxzZGSpm
 description: "Herb Oatmeal Energi"
 ---
 
-<div class="paraph">Selain terkenal membantu diet, oatmeal mempunyai khasiat yang banyak untuk kesehatan. Tentu akan semakin kaya manfaatnya jika dikonsumsi dengan bahan-bahan berkhasiat lainnya. Salah satunya dalam bentuk <a cclass="mhoapp purple" href="/posts/herb-oatmeal-energi-jce" title="Herb Oatmeal Energi">Herb Oatmeal Energi</a>, sinergi oatmeal dengan berbagai herbal unggulan.</div>
+<div class="paraph">Selain terkenal membantu diet, oatmeal mempunyai khasiat yang banyak untuk kesehatan. Tentu akan semakin kaya manfaatnya jika dikonsumsi dengan bahan-bahan berkhasiat lainnya. Salah satunya dalam bentuk <a  class="mhoapp purple" href="/posts/herb-oatmeal-energi-jce" title="Herb Oatmeal Energi">Herb Oatmeal Energi</a>, sinergi oatmeal dengan berbagai herbal unggulan.</div>
 
 <h1>Kandungan Herb Oatmeal Energi</h1>
 
@@ -14,7 +14,7 @@ description: "Herb Oatmeal Energi"
 
 <h1>Khasiat Herb Oatmeal Energi</h1>
 
-<div class="paraph">Masing-masing herba yang terkandung dalam <a cclass="mhoapp purple" href="/posts/herb-oatmeal-energi-jce" title="Herb Oatmeal Energi">Herb Oatmeal Energi</a> mempunyai khasiat antara lain:</div>
+<div class="paraph">Masing-masing herba yang terkandung dalam <a  class="mhoapp purple" href="/posts/herb-oatmeal-energi-jce" title="Herb Oatmeal Energi">Herb Oatmeal Energi</a> mempunyai khasiat antara lain:</div>
 
 <ol><li>Beras merah: mengandung serat protein, lemak, karbohidrat, vitamin (A, B, B Komplek, dan E), mineral dan enzim.</li>
 <li>Kunyit Putih: antialergi, obat analgesik, obat tukak, antiracun, anti inflamasi.</li>

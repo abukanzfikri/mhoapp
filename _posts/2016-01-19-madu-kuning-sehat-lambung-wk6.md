@@ -7,15 +7,15 @@ image: https://4.bp.blogspot.com/-z6ObTxJjIGQ/XUJVk4oCUkI/AAAAAAAAB2Q/h3XJjNpa9r
 description: "Madu Kuning Sehat Lambung"
 ---
 
-<div class="paraph"><a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> merupakan sinergi lengkap dari herba-herba pilihan yang berkualitas. Perpaduan ini menjadikan <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> sebagai herba <i>Best Seller</i> yang menjadi bukti bahwa <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> ini benar-benar berkhasiat dan dipercaya oleh masyarakat.</div>
+<div class="paraph"><a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> merupakan sinergi lengkap dari herba-herba pilihan yang berkualitas. Perpaduan ini menjadikan <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> sebagai herba <i>Best Seller</i> yang menjadi bukti bahwa <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> ini benar-benar berkhasiat dan dipercaya oleh masyarakat.</div>
 
 <h1>Kandungan Madu Kuning Sehat Lambung</h1>
 
-<div class="paraph">Kandungan utama <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> adalah Madu Murni Pilihan, Kunyit, Kencur, Temulawak, Ketumbar, Mengkudu, Jahe, Alang-alang, Kayumanis dan herba lain.</div>
+<div class="paraph">Kandungan utama <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> adalah Madu Murni Pilihan, Kunyit, Kencur, Temulawak, Ketumbar, Mengkudu, Jahe, Alang-alang, Kayumanis dan herba lain.</div>
 
 <h1>Manfaat Madu Kuning Sehat Lambung</h1>
 
-<div class="paraph">Masing-masing herba yang terkandung dalam <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> mempunyai khasiat antara lain:</div>
+<div class="paraph">Masing-masing herba yang terkandung dalam <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> mempunyai khasiat antara lain:</div>
 
 <ol>
 <li>Kunyit: Sebagai antibiotik menetralisir hasil/sisa pencernaan yang mengendap di dalam usus.</li>

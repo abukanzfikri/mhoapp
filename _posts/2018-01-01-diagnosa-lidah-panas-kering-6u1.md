@@ -65,4 +65,4 @@ image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0
 
 <div class="paraph">Kandungan <b>Cuka Apel Sinergi</b> antara lain: cuka apel dan gamat yang bersifat menyerap panas, dan madu bersifat menguatkan energi.</div>
 
-<div class="paraph">Selain itu, bisa juga dengan herbal <a cclass="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina Attaubah">Spirulina</a> dan <a cclass="mhoapp blue" href="/posts/kapsul-albumin-zp4" title="Kapsul Albumin">Albumin</a> sebagai herbal anti racun dan meregenerasi sel.</div>
+<div class="paraph">Selain itu, bisa juga dengan herbal <a  class="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina Attaubah">Spirulina</a> dan <a  class="mhoapp blue" href="/posts/kapsul-albumin-zp4" title="Kapsul Albumin">Albumin</a> sebagai herbal anti racun dan meregenerasi sel.</div>

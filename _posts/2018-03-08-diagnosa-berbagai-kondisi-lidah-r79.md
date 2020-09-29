@@ -36,9 +36,9 @@ image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0
 
 <div class="paraph">Ujung lidah seperti terbelah menandakan panas pada organ rongga perut. Lidah seperti ini juga salah satu ciri kolesterol tinggi yang sudah mempengaruhi gerak pada jantung. Kondisi ini menjadikan penderita terganggu masalah hormon dan mata.</div>
 
-<div class="paraph">Solusi herba untuk kondisi seperti ini antara lain: <a cclass="mhoapp red" href="/posts/kapsul-bawang-mekah-0kl" title="Kapsul Bawang Mekah">bawang mekah</a>, mengkudu, jahe, kencur, kayumanis.</div>
+<div class="paraph">Solusi herba untuk kondisi seperti ini antara lain: <a  class="mhoapp red" href="/posts/kapsul-bawang-mekah-0kl" title="Kapsul Bawang Mekah">bawang mekah</a>, mengkudu, jahe, kencur, kayumanis.</div>
 
-<div class="paraph">Semua herbal-herbal untuk solusi kondisi lidah tersebut di atas sudah terkandung di dalam <a cclass="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
+<div class="paraph">Semua herbal-herbal untuk solusi kondisi lidah tersebut di atas sudah terkandung di dalam <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
 
 <div class="paraph">Selain itu, ada beberapa hal yang perlu dihindari oleh penderita dengan kondisi lidah di atas antara lain:</div>
 
