@@ -7,6 +7,15 @@
 */
 
 @mixin dark-scheme {
+  /* color */
+  --blue: #042148;
+  --purple: #1b103f;
+  --pink: #3a0b22;
+  --red: #501110;
+  --orange: #682812;
+  --green: #10270d;
+  --teal: #08201a;
+    
   /* framework */
   --main-wrapper-bg: rgb(27, 27, 30);
   --body-bg: var(--main-wrapper-bg);

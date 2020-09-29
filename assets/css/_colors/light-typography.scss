@@ -7,6 +7,15 @@
 */
 
 @mixin light-scheme {
+  /* color */
+  --blue: #0D47A1;
+  --purple: #4A148C;
+  --pink: #880E4F;
+  --red: #B71C1C;
+  --orange: #E65100;
+  --green: #1B5E20;
+  --teal: #004D40;
+
   /* Common */
   --body-bg: #fafafa;
   --mask-bg: #c1c3c5;
