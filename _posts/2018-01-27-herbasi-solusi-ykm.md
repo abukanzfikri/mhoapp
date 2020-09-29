@@ -6,7 +6,7 @@ image: https://4.bp.blogspot.com/-p2Chw6sh2ok/XZcZVVYap9I/AAAAAAAAD18/sFeW2Dx1T9
 description: "Herb ASI Solusi"
 ---
 
-<div class="paraph">Sesuai dengan namanya, <a  class="mhoapp pink" href="/posts/herbasi-solusi-ykm" title="herb ASI Solusi">herb ASI Solusi</a> merupakan herbal untuk solusi masalah ASI, ibu hamil, serta kesehatan janin.</div>
+<div class="paraph">Sesuai dengan namanya, <a  class="mhoapp pink" href="{{ site.baseurl }}/posts/herbasi-solusi-ykm" title="herb ASI Solusi">herb ASI Solusi</a> merupakan herbal untuk solusi masalah ASI, ibu hamil, serta kesehatan janin.</div>
 
 <h1>Kandungan Herb ASI Solusi</h1>
 

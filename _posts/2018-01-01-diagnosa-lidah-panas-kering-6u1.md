@@ -10,12 +10,12 @@ image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0
 <div class="paraph">Lidah dengan kondisi panas dan kering terlihat dari lidah yang berwarna merah dan tidak adanya gelembung. Kondisi seperti ini mengindikasikan beberapa permasalahan.</div>
 
 
-<div class="paraph">Baca juga beberapa <a href="/categories/materi" title="Materi MHO">materi MHO</a> berhubungan dengan diagnosa lidah, diantaranya:</div>
+<div class="paraph">Baca juga beberapa <a href="{{ site.baseurl }}/categories/materi" title="Materi MHO">materi MHO</a> berhubungan dengan diagnosa lidah, diantaranya:</div>
 
 <ol>
-<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-dan-permasalahan-organ-reproduksi-fwi" title="Diagnosa Lidah dan Masalah Organ Reproduksi">Diagnosa Lidah dan Masalah Organ Reproduksi</a></li>
-<li><a class="mhoapp teal" href="/posts/diagnosa-berbagai-kondisi-lidah-r79" title="Diagnosa Berbagai Kondisi Lidah">Diagnosa Berbagai Kondisi Lidah</a></li>
-<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-bergelombang-x30" title="Diagnosa Lidah: Lidah Bergelombang">Diagnosa Lidah: Lidah Bergelombang</a></li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/diagnosa-lidah-dan-permasalahan-organ-reproduksi-fwi" title="Diagnosa Lidah dan Masalah Organ Reproduksi">Diagnosa Lidah dan Masalah Organ Reproduksi</a></li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/diagnosa-berbagai-kondisi-lidah-r79" title="Diagnosa Berbagai Kondisi Lidah">Diagnosa Berbagai Kondisi Lidah</a></li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/diagnosa-lidah-bergelombang-x30" title="Diagnosa Lidah: Lidah Bergelombang">Diagnosa Lidah: Lidah Bergelombang</a></li>
 </ol>
 
 <h1>Diagnosa Lidah Panas</h1>
@@ -65,4 +65,4 @@ image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0
 
 <div class="paraph">Kandungan <b>Cuka Apel Sinergi</b> antara lain: cuka apel dan gamat yang bersifat menyerap panas, dan madu bersifat menguatkan energi.</div>
 
-<div class="paraph">Selain itu, bisa juga dengan herbal <a  class="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina Attaubah">Spirulina</a> dan <a  class="mhoapp blue" href="/posts/kapsul-albumin-zp4" title="Kapsul Albumin">Albumin</a> sebagai herbal anti racun dan meregenerasi sel.</div>
+<div class="paraph">Selain itu, bisa juga dengan herbal <a  class="mhoapp green" href="{{ site.baseurl }}/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina Attaubah">Spirulina</a> dan <a  class="mhoapp blue" href="{{ site.baseurl }}/posts/kapsul-albumin-zp4" title="Kapsul Albumin">Albumin</a> sebagai herbal anti racun dan meregenerasi sel.</div>

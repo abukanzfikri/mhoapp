@@ -7,11 +7,11 @@ image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0
 
 <div class="paraph">Salah satu cara untuk mendiagnosa sakit yang dialami seseorang adalah dengan melihat lidahnya. Apa saja yaang dapat kita lihat dari kondisi seseorang? Materi MHO kali ini akan sedikit membahas tentang diagnosa lidah tersebut.</div>
 
-<div class="paraph"><b>Materi Herbalis Online (MHO)</b> kali ini akan membahas diagnosa lidah dalam beberapa keadaan. Selain itu, kami membahas pula <a href="/categories/materi" title="Materi MHO">materi MHO</a> tentang lidah dalam artikel-artikel berikut: </div>
+<div class="paraph"><b>Materi Herbalis Online (MHO)</b> kali ini akan membahas diagnosa lidah dalam beberapa keadaan. Selain itu, kami membahas pula <a href="{{ site.baseurl }}/categories/materi" title="Materi MHO">materi MHO</a> tentang lidah dalam artikel-artikel berikut: </div>
 <ol>
-<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-dan-permasalahan-organ-reproduksi-fwi" title="Diagnosa Lidah dan Masalah Organ Reproduksi">Diagnosa Lidah dan Masalah Organ Reproduksi</a></li>
-<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-panas-kering-6u1" title="Diagnosa Lidah: Panas & Kering">Diagnosa Lidah: Panas & Kering</a></li>
-<li><a class="mhoapp teal" href="/posts/diagnosa-lidah-bergelombang-x30" title="Diagnosa Lidah: Lidah Bergelombang">Diagnosa Lidah: Lidah Bergelombang</a></li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/diagnosa-lidah-dan-permasalahan-organ-reproduksi-fwi" title="Diagnosa Lidah dan Masalah Organ Reproduksi">Diagnosa Lidah dan Masalah Organ Reproduksi</a></li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/diagnosa-lidah-panas-kering-6u1" title="Diagnosa Lidah: Panas & Kering">Diagnosa Lidah: Panas & Kering</a></li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/diagnosa-lidah-bergelombang-x30" title="Diagnosa Lidah: Lidah Bergelombang">Diagnosa Lidah: Lidah Bergelombang</a></li>
 </ol>
 
 <h1>Lidah Tebal dan Lancip</h1>
@@ -36,9 +36,9 @@ image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0
 
 <div class="paraph">Ujung lidah seperti terbelah menandakan panas pada organ rongga perut. Lidah seperti ini juga salah satu ciri kolesterol tinggi yang sudah mempengaruhi gerak pada jantung. Kondisi ini menjadikan penderita terganggu masalah hormon dan mata.</div>
 
-<div class="paraph">Solusi herba untuk kondisi seperti ini antara lain: <a  class="mhoapp red" href="/posts/kapsul-bawang-mekah-0kl" title="Kapsul Bawang Mekah">bawang mekah</a>, mengkudu, jahe, kencur, kayumanis.</div>
+<div class="paraph">Solusi herba untuk kondisi seperti ini antara lain: <a  class="mhoapp red" href="{{ site.baseurl }}/posts/kapsul-bawang-mekah-0kl" title="Kapsul Bawang Mekah">bawang mekah</a>, mengkudu, jahe, kencur, kayumanis.</div>
 
-<div class="paraph">Semua herbal-herbal untuk solusi kondisi lidah tersebut di atas sudah terkandung di dalam <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
+<div class="paraph">Semua herbal-herbal untuk solusi kondisi lidah tersebut di atas sudah terkandung di dalam <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>.</div>
 
 <div class="paraph">Selain itu, ada beberapa hal yang perlu dihindari oleh penderita dengan kondisi lidah di atas antara lain:</div>
 

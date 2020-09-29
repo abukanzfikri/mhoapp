@@ -39,12 +39,12 @@ image: https://1.bp.blogspot.com/-US-s4npPKWk/XYGP2OGznrI/AAAAAAAADvI/Lubh4pPTmJ
 <div class="paraph">Ada beberapa sinergi herbal yang dapat dikonsumsi sesuai dengan kondisi yang terjadi. Yaitu ketika sudah terganggu tidurnya, tidak lancar BAB, ada radang atau sakit, maka diperlukan sinergi:</div>
 
 <ol>
-<li><a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> 2 sdm 3x plus air hangat.</li>
+<li><a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> 2 sdm 3x plus air hangat.</li>
 <li>Herba bugar 3 hisap/kapsul 3x sehari</li>
 <li>Perbanyak konsumsi air hangat.</li></ol>
 
 <div class="paraph">Sedangkan jika hanya merasakan keluhan sesak dan lemas, maka cukuk konsumsi:</div>
 
 <ol>
-<li><a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> plus air hangat</li>
-<li>atau <a  class="mhoapp orange" href="/posts/madu-hutan-premium-xkz" title="Madu Hutan Premium">Madu Hutan Premium</a> atau <b>Madu Hutan Golden</b> plus <a  class="mhoapp purple" href="/posts/kapsul-habasy-oil-vnc" title="Kapsul Habbasy Oil">Habbatussauda</a></li></ol>
+<li><a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Kambung">Madu Kuning Sehat Kambung</a> plus air hangat</li>
+<li>atau <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-hutan-premium-xkz" title="Madu Hutan Premium">Madu Hutan Premium</a> atau <b>Madu Hutan Golden</b> plus <a  class="mhoapp purple" href="{{ site.baseurl }}/posts/kapsul-habasy-oil-vnc" title="Kapsul Habbasy Oil">Habbatussauda</a></li></ol>

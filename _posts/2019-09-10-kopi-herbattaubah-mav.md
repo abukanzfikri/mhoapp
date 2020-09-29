@@ -6,19 +6,19 @@ image: https://3.bp.blogspot.com/-76mnmKeaZ64/XXcegY4_c0I/AAAAAAAADeQ/JFoMpVnCEq
 description: "Kopi Herbattaubah"
 ---
 
-<div class="paraph"><a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> merupakan produk terbaru dari CV. herbAttaubah. Setelah sebelumnya beredar juga produk kopi yang lain seperti: <b>Kopi Sehat Sinergi</b>. Seperti apa <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini? Apakah sama dengan produk sebelumnya?</div>
+<div class="paraph"><a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> merupakan produk terbaru dari CV. herbAttaubah. Setelah sebelumnya beredar juga produk kopi yang lain seperti: <b>Kopi Sehat Sinergi</b>. Seperti apa <a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini? Apakah sama dengan produk sebelumnya?</div>
 
-<div class="paraph">Ada beberapa materi <a href="/categories/materi" title="Materi MHO">Materi MHO</a> yang khusus membahas khasiat dan cara kerja <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini, diantaranya:</div>
+<div class="paraph">Ada beberapa materi <a href="{{ site.baseurl }}/categories/materi" title="Materi MHO">Materi MHO</a> yang khusus membahas khasiat dan cara kerja <a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> ini, diantaranya:</div>
 
 <ol>
-<li><a class="mhoapp teal" href="/posts/kopi-herbattaubah-untuk-tubuh-ideal-lqf" title="Kopi herbAttaubah untuk Badan Ideal">Kopi herbAttaubah untuk Tubuh Ideal</a>.</li>
-<li><a class="mhoapp teal" href="/posts/kopi-herbattaubah-untuk-meningkatkan-libido-b10" title="Kopi herbAttaubah untuk Menjaga Libido">Kopi herbAttaubah untuk Menjaga Libido</a>.</li>
-<li><a class="mhoapp teal" href="/posts/kopi-herbattaubah-untuk-solusi-kolesterol-2d1" title="Kopi herbAttaubah untuk Kolesterol">Kopi herbAttaubah untuk Solusi Kolesterol</a>.</li>
-<li><a class="mhoapp teal" href="/posts/kopi-herbattaubah-untuk-solusi-diabetes-toj" title="Kopi herbAttaubah untuk Diabetes">Kopi herbAttaubah untuk Solusi Diabates</a>.</li></ol>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/kopi-herbattaubah-untuk-tubuh-ideal-lqf" title="Kopi herbAttaubah untuk Badan Ideal">Kopi herbAttaubah untuk Tubuh Ideal</a>.</li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/kopi-herbattaubah-untuk-meningkatkan-libido-b10" title="Kopi herbAttaubah untuk Menjaga Libido">Kopi herbAttaubah untuk Menjaga Libido</a>.</li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/kopi-herbattaubah-untuk-solusi-kolesterol-2d1" title="Kopi herbAttaubah untuk Kolesterol">Kopi herbAttaubah untuk Solusi Kolesterol</a>.</li>
+<li><a class="mhoapp teal" href="{{ site.baseurl }}/posts/kopi-herbattaubah-untuk-solusi-diabetes-toj" title="Kopi herbAttaubah untuk Diabetes">Kopi herbAttaubah untuk Solusi Diabates</a>.</li></ol>
 
 <h1>Kandungan Kopi Herbattaubah</h1>
 
-<div class="paraph"><a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> (Premix Coffee herbAttaubah) merupakan sinergi dari herbal-herbal yang sudah terbukti khasiatnya dengan kualitas terbaik. Diantaranya: Tongkat Ali/Pasakbumi, Akar Mata Pelanduk, Akar Teja Lawang, Akar Tebu Gajah, Akar Mengkudu Hutan, Halban, Larak Hutan.</div>
+<div class="paraph"><a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> (Premix Coffee herbAttaubah) merupakan sinergi dari herbal-herbal yang sudah terbukti khasiatnya dengan kualitas terbaik. Diantaranya: Tongkat Ali/Pasakbumi, Akar Mata Pelanduk, Akar Teja Lawang, Akar Tebu Gajah, Akar Mengkudu Hutan, Halban, Larak Hutan.</div>
 
 <div class="paraph">Salah satu perbedaan dengan produk kopi yang ada yaitu Kopi herbAttaubah menggunakan bahan berbentuk ekstrak, bukan simplisia. Apa keunggulannya? Ekstrak akan menjadikan herbal-herbal tersebut mudah terserap dan cepat bekerja. Sehingga tidak khawatir menyebabkan gangguan asam lambung dan semisalnya. Produk kopi sejenis yang berbahan simplisia dapat menyebabkan kaki dingin, perut kembung dan nyeri dada.</div>
 

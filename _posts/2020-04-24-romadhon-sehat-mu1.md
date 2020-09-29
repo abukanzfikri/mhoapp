@@ -39,4 +39,4 @@ image: https://3.bp.blogspot.com/-ieh-EG6d97Y/XqLAEyw5ewI/AAAAAAAAE7g/-cM1QdvStD
 
 <h1>Apa Solusi Sehat Selama Romadhon?</h1>
 
-<div class="paraph">Selain memperhatikan hal-hal yang sudah disampaikan di atas. Sangat tepat untuk menunjang kesehatan tubuh selama Romadhon dengan mengkonsumsi <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Konsumsi produk tersebut ketika sahur (bangun tidur) dan ketika berbuka puasa.</div>
+<div class="paraph">Selain memperhatikan hal-hal yang sudah disampaikan di atas. Sangat tepat untuk menunjang kesehatan tubuh selama Romadhon dengan mengkonsumsi <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Konsumsi produk tersebut ketika sahur (bangun tidur) dan ketika berbuka puasa.</div>

@@ -10,11 +10,11 @@ description: "Salep Multiafiat Attaubah"
 
 <h1>Kandungan Salep Multiafiat</h1>
 
-<div class="paraph">Kandungan <a  class="mhoapp red" href="/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a> antara lain: vaseline, piper betle, syzgium aromaticum oil, vco, minyak zaitun.</div>
+<div class="paraph">Kandungan <a  class="mhoapp red" href="{{ site.baseurl }}/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a> antara lain: vaseline, piper betle, syzgium aromaticum oil, vco, minyak zaitun.</div>
 
 <h1>Manfaat Salep Multiafiat</h1>
 
-<div class="paraph">Khasiat <a  class="mhoapp red" href="/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a>, diantaranya:</div>
+<div class="paraph">Khasiat <a  class="mhoapp red" href="{{ site.baseurl }}/posts/salep-multiafiat-7b2" title="Salep Multiafiat Attaubah">Salep Multiafiat Attaubah</a>, diantaranya:</div>
 
 <ol>
     <li>Mengobati penyakit-penyakit kulit dan menghilangkan bekas-bekasnya.</li>

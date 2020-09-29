@@ -48,8 +48,8 @@ image: https://3.bp.blogspot.com/-YQ_cS4B03uU/XghyOZRlgKI/AAAAAAAAEfs/3ldGd6TjPi
 
 <h1>Bagaimana Solusi Infeksi Usus?</h1>
 
-<div class="paraph">Melihat penjelasan mengenai infeksi usus di atas, maka produk yang tepat adalah <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Di dalam <a href="/categories/produk" title="Produk herbAttaubah">produk</a> tersebut terdapat herbal kunyit, temulawak, jahe dan kencur.</div>
+<div class="paraph">Melihat penjelasan mengenai infeksi usus di atas, maka produk yang tepat adalah <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a>. Di dalam <a href="{{ site.baseurl }}/categories/produk" title="Produk herbAttaubah">produk</a> tersebut terdapat herbal kunyit, temulawak, jahe dan kencur.</div>
 
 <div class="paraph">Kunyit berkhasiat untuk mengatasi mual, peradangan, diare. Temulawak berkhasiat untuk mengatasi infeksi bakteri dan anti radang. Jahe berkhasiat untuk mengatasi mual dan peradangan. Kencur berkhasiat untuk diare dan menyembuhkan luka. Sinergi dari herbal-herbal tersebut akan mengangkat dahak yang muncul akibat dari kondisi lembab dingin yang menyebabkan daya tahan tubuh menurun.</div>
 
-<div class="paraph">Konsumsi <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dengan diseduh dalam air hangat. Rutin diminum sebelum makan.</div>
+<div class="paraph">Konsumsi <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung">Madu Kuning Sehat Lambung</a> dengan diseduh dalam air hangat. Rutin diminum sebelum makan.</div>

@@ -7,7 +7,7 @@ image: https://2.bp.blogspot.com/-74d75JvY1wg/XbD6rbVPpHI/AAAAAAAAEBw/QfI0CzOM4X
 
 <div class="paraph">Diabetes sering dianggap sebagai penyakit turunan sehingga tidak bisa disembuhkan. Padahal, tidak ada penyakit yang diturunkan. Sebenarnya yang diturunkan adalah kebiasaan buruk yang dilihat dan dikuti oleh anak sejak kecil. Bagimana Kopi herbAttaubah mengambil peran dalam solusi diabetes?</div>
 
-<div class="paraph">Banyak masyarakat yang beranggapan bahwa pengidap diabetes tidak boleh konsumsi semua yang manis-manis. Padahal tidak seperti itu, madu misalnya. Manisnya madu tidak menjadikan efek buruk bagi penderita diabetes karena di dalam madu ada obat untuk diabetes. Begitu juga dengan <a href="/categories/produk" title="Produk herbAttaubah">produk</a> ini. <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> mengandung gula, tapi di dalamnya lebih banyak mengandung herbal-herbal yang berkhasiat menjaga keseimbangan gula.
+<div class="paraph">Banyak masyarakat yang beranggapan bahwa pengidap diabetes tidak boleh konsumsi semua yang manis-manis. Padahal tidak seperti itu, madu misalnya. Manisnya madu tidak menjadikan efek buruk bagi penderita diabetes karena di dalam madu ada obat untuk diabetes. Begitu juga dengan <a href="{{ site.baseurl }}/categories/produk" title="Produk herbAttaubah">produk</a> ini. <a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> mengandung gula, tapi di dalamnya lebih banyak mengandung herbal-herbal yang berkhasiat menjaga keseimbangan gula.
 
 <h1>Kopi herbAttaubah Menyeimbangkan Kadar Gula Darah?</h1>
 
@@ -18,13 +18,13 @@ image: https://2.bp.blogspot.com/-74d75JvY1wg/XbD6rbVPpHI/AAAAAAAAEBw/QfI0CzOM4X
 <li>Api dengan sifat panas</li>
 <li>Angin dengan sifat kering</li></ol>
 
-<a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> mengandung herbal-herbal yang mempunyai unsur-unsur tersebut, yaitu:</div>
+<a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> mengandung herbal-herbal yang mempunyai unsur-unsur tersebut, yaitu:</div>
 
 <ol><li>Larak hutan sebagai unsur tanah</li>
 <li>Tebu gajah sebagai unsur air</li>
 <li>Kayumanis sebagai unsur api</li>
 <li>Pasak bumi sebagai unsur angin</li></ol>
 
-<div class="paraph">Sinergi herbal-herbal tersebut di atas dan herbal-herbal lainnya seperti mata pelanduk, halban, mengkudu hutan menjadikan <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> mampu bekerja untuk menyeimbangkan kondisi tubuh. Termasuk juga menyeimbangkan kadar gula darah. Sehingga dengan rutin konsumsi <a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a>, maka kadar gula darah lebih seimbang dan normal kembali.</div>
+<div class="paraph">Sinergi herbal-herbal tersebut di atas dan herbal-herbal lainnya seperti mata pelanduk, halban, mengkudu hutan menjadikan <a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> mampu bekerja untuk menyeimbangkan kondisi tubuh. Termasuk juga menyeimbangkan kadar gula darah. Sehingga dengan rutin konsumsi <a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a>, maka kadar gula darah lebih seimbang dan normal kembali.</div>
 
-<div class="paraph">Agar mendapatkan khasiat yang maksimal, rebus [<a class="mhoapp red" href="/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> di dalam air yang mendidih. Simpan di dalam gelas tertutup selama kurang lebih 5-10 menit. Konsumsi selagi hangat pada pagi hari sebelum sarapan dan sore hari selepas ashar. Bisa juga ditambahkan gula aren serbuk.</div>
+<div class="paraph">Agar mendapatkan khasiat yang maksimal, rebus [<a class="mhoapp red" href="{{ site.baseurl }}/posts/kopi-herbattaubah-mav" title="Kopi herbAttaubah">Kopi herbAttaubah</a> di dalam air yang mendidih. Simpan di dalam gelas tertutup selama kurang lebih 5-10 menit. Konsumsi selagi hangat pada pagi hari sebelum sarapan dan sore hari selepas ashar. Bisa juga ditambahkan gula aren serbuk.</div>

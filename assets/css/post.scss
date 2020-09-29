@@ -81,7 +81,7 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
         border-color: none;
       }
     }
-    &.btn-outline-primary.disabled:focus {
+    &.btn-outline-primary.disabled:focus,.btn-outline-primary.focus,.btn-outline-primary:focus {
       box-shadow: none;
     }
   }

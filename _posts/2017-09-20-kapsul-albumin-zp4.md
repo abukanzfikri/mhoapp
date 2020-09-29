@@ -10,7 +10,7 @@ description: "Kapsul Albumin"
 
 <h1>Kandungan Kapsul Albumin</h1>
 
-<div class="paraph"><a  class="mhoapp blue" href="/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.</div>
+<div class="paraph"><a  class="mhoapp blue" href="{{ site.baseurl }}/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> mengandung ekstrak albumin kualitas pilihan.</div>
 
 <h1>Manfaat Kapsul Albumin</h1>
 
@@ -31,5 +31,5 @@ description: "Kapsul Albumin"
 
 <ol>
 <li>Minum 2-3 kapsul setidaknya 2x sehari (pagi dan malam hari).</li>
-<li>Selain dikonsumsi secara langsung, <a  class="mhoapp blue" href="/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> dapat diminum dengan cara dicampur dengan <a  class="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>:
-<a  class="mhoapp green" href="/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a> 3 kapsul dan <a  class="mhoapp blue" href="/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> 2 kapsul, semua dibuka cangkang kapsulnya, dan <a  class="mhoapp orange" href="/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> dimasukkan ke dalam botol. Dikocok 50 kali.</li></ol>
+<li>Selain dikonsumsi secara langsung, <a  class="mhoapp blue" href="{{ site.baseurl }}/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> dapat diminum dengan cara dicampur dengan <a  class="mhoapp green" href="{{ site.baseurl }}/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a>:
+<a  class="mhoapp green" href="{{ site.baseurl }}/posts/kapsul-spirulina-9ee" title="Kapsul Spirulina">Kapsul Spirulina</a> 3 kapsul dan <a  class="mhoapp blue" href="{{ site.baseurl }}/posts/kapsul-albumin-zp4" title="Kapsul Top Bumin Attaubah">Kapsul Top Bumin</a> 2 kapsul, semua dibuka cangkang kapsulnya, dan <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-multiflora-yj5" title="Madu Multiflora">Madu Multiflora</a> dimasukkan ke dalam botol. Dikocok 50 kali.</li></ol>

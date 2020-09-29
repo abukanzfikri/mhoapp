@@ -10,6 +10,13 @@
 {% include_relative _addon/main.scss %}
 {% include_relative _addon/syntax.scss %}
 
+#post-wrapper .post-content a.mhoapp.blue {
+  color: inherit;
+  background: linear-gradient(to top, transparent 0%, var(--blue) 0%, var(--blue) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% .4rem;
+  transition: background-size 250ms ease;
+}
+
 #post-wrapper .post-content a.mhoapp.green {
   color: inherit;
   background: linear-gradient(to top, transparent 0%, var(--green) 0%, var(--green) 100%, transparent 100%) no-repeat left 0 bottom 0;

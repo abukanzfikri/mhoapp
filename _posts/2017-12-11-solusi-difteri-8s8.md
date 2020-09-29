@@ -5,7 +5,7 @@ tags: [Madu Kuning,Bawang Mekah]
 image: https://4.bp.blogspot.com/-e89o_N7iMSE/Wi3-mD9xRII/AAAAAAAAAmw/oQXz7lAkFZYbR6veRxqO6XWO0hCdwDAewCKgBGAs/s1600/MHO171211-Difteri.png
 ---
 
-<div class="paraph">Saat ini, ramai diberitakan mengenai penyakit difteri. Penyakit ini melanda beberapa daerah di Indonesia. Lalu, seperti apa penyakit difteri dilihat dari segi herbal? Simak <a href="/categories/materi" title="Daftar materi MHO">materi MHO</a> (Materi Herbalis Online) berikut.</div>
+<div class="paraph">Saat ini, ramai diberitakan mengenai penyakit difteri. Penyakit ini melanda beberapa daerah di Indonesia. Lalu, seperti apa penyakit difteri dilihat dari segi herbal? Simak <a href="{{ site.baseurl }}/categories/materi" title="Daftar materi MHO">materi MHO</a> (Materi Herbalis Online) berikut.</div>
 
 <div class="paraph">Difteri adalah infeksi bakteri <i>Corynebacterium</i> yang umumnya menyerang selaput lendir pada hidung dan tenggorokan, serta terkadang dapat memengaruhi kulit. Gejalanya berupa sakit tenggorokan, demam, dan terbentuknya lapisan di amandel dan tenggorokan. Kasus yang parah, infeksi bisa menyebar ke organ tubuh lain seperti jantung dan sistem saraf.</div>
 
@@ -40,16 +40,16 @@ image: https://4.bp.blogspot.com/-e89o_N7iMSE/Wi3-mD9xRII/AAAAAAAAAmw/oQXz7lAkFZ
     <li>Konsumsi herbal anti-inveksi, dengan herba: <b>Kunyit</b>, <b>Temulawak</b>, <b>Mengkudu</b>, <b>Kayumanis</b>, <b>Alang-alang</b>.</li>
 </ol>
 
-<div class="paraph">Alhamdulillah, herbal-herbal alami tersebut sudah ada di dalam <a  class="mhoapp orange" href="/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung Attaubah">Madu Kuning Sehat Lambung</a>.</div>
+<div class="paraph">Alhamdulillah, herbal-herbal alami tersebut sudah ada di dalam <a  class="mhoapp orange" href="{{ site.baseurl }}/posts/madu-kuning-sehat-lambung-wk6" title="Madu Kuning Sehat Lambung Attaubah">Madu Kuning Sehat Lambung</a>.</div>
 
 <h1>Cara Konsumsi Herbal untuk Difteri</h1>
 
 <div class="paraph">Untuk daya tahan tubuh, minum 2 SDM 3x sehari. Sedangkan untuk pengobatan, minum 3-5 SDM 3x sehari. Dikonsumsi sebelum makan.</div>
-<div class="paraph">Selain konsumsi <a href="/categories/produk" title="Daftar produk CV. Herbattaubah">herbal</a>, ada tindakan lain yang perlu dilakukan, yaitu:</div>
+<div class="paraph">Selain konsumsi <a href="{{ site.baseurl }}/categories/produk" title="Daftar produk CV. Herbattaubah">herbal</a>, ada tindakan lain yang perlu dilakukan, yaitu:</div>
 
 <ol>
     <li>Pijat urut sistem limfatik dan sendi.</li>
-    <li>Pada bagian leher, pada wilayah kelenjar limfa yang bengkak dibalur dengan <a  class="mhoapp red" href="/posts/minyak-herba-siaga-premium-2tm" title="Minyak Herba Siaga Premium">Minyak Herba Siaga Premium</a>.
+    <li>Pada bagian leher, pada wilayah kelenjar limfa yang bengkak dibalur dengan <a  class="mhoapp red" href="{{ site.baseurl }}/posts/minyak-herba-siaga-premium-2tm" title="Minyak Herba Siaga Premium">Minyak Herba Siaga Premium</a>.
 </ol>
 
 <h1>Makanan yang Perlu Dihindari oleh Penderita Difteri</h1>
