@@ -80,8 +80,11 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
       &:hover {
         border-color: none;
       }
+    &:focus {
+      box-shadow: none;
     }
-    &.btn-outline-primary.disabled:focus,.btn-outline-primary.focus,.btn-outline-primary:focus {
+    }
+    &.btn-outline-primary.disabled:focus {
       box-shadow: none;
     }
   }
