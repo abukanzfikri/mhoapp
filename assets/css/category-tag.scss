@@ -15,6 +15,7 @@
     padding: .6rem 0;
     &::before { // dot
       font-family: 'Material Design Icons';
+      color: #6c757d;
       display: block;
       content: "\F11D7";
       position: relative;

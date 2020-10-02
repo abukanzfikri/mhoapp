@@ -94,12 +94,13 @@
         float: left;
         top: 1.35rem;
         left: 69px;
-        background-color: var(--link-hover-color);
+        background-color: var(--link-color);
         box-shadow: 0 0 3px 0 #c2c6cc;
         z-index: 1;
-        &:hover {
-          background-color: var(--link-hover-color);
-        }
+      }
+      ~a:hover::before {
+        background-color: var(--link-hover-color);
+      }
       }
     }
     &.day {
