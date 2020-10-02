@@ -244,24 +244,24 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
         @extend %btn-share-hovor;
       }
     }
-    .fab {
-      &.fa-twitter {
-        @include btn-sharing-color(rgba(29, 161, 242, 1.00));
+    .mdi {
+      &.mdi-twitter {
+        @include btn-sharing-color(#1da1f2);
       }
-      &.fa-facebook-square {
-        @include btn-sharing-color(rgb(66, 95, 156));
+      &.mdi-facebook {
+        @include btn-sharing-color(#3b5998);
       }
-      &.fa-telegram {
-        @include btn-sharing-color(rgb(39, 159, 217));
+      &.mdi-telegram {
+        @include btn-sharing-color(#0088cc);
       }
-      &.fa-weibo {
-        @include btn-sharing-color(rgb(229, 20, 43));
+      &.mdi-whatsapp {
+        @include btn-sharing-color(#25d366);
       }
     }
 
   } // .share-icons
 
-  .fas.fa-link {
+  .mdi.mdi-link {
     @include btn-sharing-color(rgb(171, 171, 171));
   }
 

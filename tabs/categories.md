@@ -69,9 +69,6 @@ type: categories
         <i class="mdi mdi-chevron-down"></i>
       </a>
       {% else %}
-      <span data-toggle="collapse" class="category-trigger hide-border-bottom disabled">
-        <i class="mdi mdi-chevron-right"></i>
-      </span>
       {% endif %}
 
     </div> <!-- .card-header -->
