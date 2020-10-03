@@ -40,13 +40,8 @@ type: categories
     <div class="card-header d-flex justify-content-between hide-border-bottom"
         id="{{ HEAD_PREFIX }}{{ group_index }}">
       <span>
-      {% if sub_categories_size > 0 %}
-        <i class="mdi mdi-folder-open-outline"></i>
-      {% else %}
-        <i class="mdi mdi-folder-outline"></i>
-      {% endif %}
         <a href="{{ site.baseurl }}/categories/{{ category_name | replace: ' ', '-' | downcase | url_encode }}/"
-          class="ml-1 mr-2 {{ category_name | replace: ' ', '-' | downcase | url_encode }}">
+          class="ml-1 mr-2 mdi {{ category_name | replace: ' ', '-' | downcase | url_encode }}">
           {{ category_name }}
         </a>
 
@@ -79,9 +74,8 @@ type: categories
       <ul class="list-group">
         {% for sub_category in sub_categories %}
         <li class="list-group-item">
-          <i class="mdi mdi-folder-outline"></i>
           <a href="{{ site.baseurl }}/categories/{{ sub_category | replace: ' ', '-' | downcase | url_encode }}/"
-            class="ml-1 mr-2 {{ sub_category | replace: ' ', '-' | downcase | url_encode }}">{{ sub_category }}</a>
+            class="ml-1 mr-2 mdi {{ sub_category | replace: ' ', '-' | downcase | url_encode }}">{{ sub_category }}</a>
           {% assign posts_size = site.categories[sub_category] | size %}
           <span class="text-muted small font-weight-light">{{ posts_size }}
             post{% if posts_size > 1 %}s{% endif %}

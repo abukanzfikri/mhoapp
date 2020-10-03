@@ -7,8 +7,7 @@ layout: page
 ---
 
 <div id="page-category">
-  <h1 class="pl-lg-2">
-    <i class="mdi mdi-folder-open-outline text-muted"></i>
+  <h1 class="pl-lg-2 mdi {{ page.title | replace: ' ', '-' | downcase | url_encode }}">
     {{ page.title }}
     <span class="lead text-muted pl-2">{{ site.categories[page.category] | size }}</span>
   </h1>

@@ -63,3 +63,11 @@
   color: var(--light) !important;
   background-size: 100% calc(1em + 6px);
 }
+
+.materi::before {
+  content:"\F15D6";
+}
+
+.produk::before {
+  content:"\F0402";
+}
