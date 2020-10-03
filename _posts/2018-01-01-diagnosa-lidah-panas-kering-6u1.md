@@ -1,7 +1,7 @@
 ---
-title: "Diagnosa Berbagai Jenis Lidah"
+title: "Diagnosa Lidah Panas dan Kering"
 categories: [Materi]
-tags: [Madu Kuning,Bawang Mekah]
+tags: [Spirulina,Albumin]
 image: https://1.bp.blogspot.com/-dRGMAtSEnCs/XYGP2NNiiJI/AAAAAAAADvI/GkXE953sq0Q3cV0UJVokrnwJkSLPQb-AwCKgBGAsYHg/s1600/201909-mho-diagnosa-lidah.png
 ---
 

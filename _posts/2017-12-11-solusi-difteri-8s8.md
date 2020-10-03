@@ -1,7 +1,7 @@
 ---
-title: "Diagnosa Berbagai Jenis Lidah"
+title: "Solusi Difteri"
 categories: [Materi]
-tags: [Madu Kuning,Bawang Mekah]
+tags: [Madu Kuning,Minyak Siaga]
 image: https://4.bp.blogspot.com/-e89o_N7iMSE/Wi3-mD9xRII/AAAAAAAAAmw/oQXz7lAkFZYbR6veRxqO6XWO0hCdwDAewCKgBGAs/s1600/MHO171211-Difteri.png
 ---
 
