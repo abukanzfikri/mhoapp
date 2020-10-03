@@ -54,6 +54,14 @@ a:hover {
   border-bottom: 2px dotted var(--dash-color);
 }
 
+.materi::before {
+  content:"\F15D6";
+}
+
+.produk::before {
+  content:"\F0402";
+}
+
 @media all and (max-width: 576px) {
   #page-category, #page-tag {
     ul>li {
