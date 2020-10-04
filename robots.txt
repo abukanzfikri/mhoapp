@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://abukanzfikri.github.io/mhoapp/sitemap.xml
